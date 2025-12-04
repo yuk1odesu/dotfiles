@@ -18,6 +18,8 @@ if [ -f pkglist ]; then
   sudo pacman -S --needed --noconfirm - < pkglist
 fi
 
+sudo pacman -S --needed --noconfirm $(comm -13 <(pacman -Qqq | sort) <(sort pkglist.txt))
+
 # Install packages from aurpkglist with yay
 if [ -f aurpkglist ]; then
   yay -S --needed --noconfirm - < aurpkglist
@@ -37,15 +39,22 @@ if [ ! -d "$ZSH_CUSTOM/plugins/zsh-syntax-highlighting" ]; then
   git clone https://github.com/zsh-users/zsh-syntax-highlighting.git $ZSH_CUSTOM/plugins/zsh-syntax-highlighting
 fi
 
+# Install fzf
+git clone https://github.com/junegunn/fzf.git ~/.fzf && ~/.fzf/install
+
+# Install zsh theme
+git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
+
 # Copy .zshrc to /home
-sudo cp .zshrc /home/
-sudo chown $(whoami):$(whoami) /home/.zshrc
+sudo cp .zshrc /home/$(whoami)/
+sudo chown $(whoami):$(whoami) /home/$(whoami)/.zshrc
 
 # Copy .config folder to /home
-sudo cp -r .config /home/
-sudo chown -R $(whoami):$(whoami) /home/.config
+sudo cp -r .config /home/$(whoami)/
+sudo chown -R $(whoami):$(whoami) /home/$(whoami)/.config
 
 # Copy wallpapers folder to /home
-sudo cp -r wallpapers /home/
-sudo chown -R $(whoami):$(whoami) /home/wallpapers
+sudo cp -r wallpapers /home/$(whoami)/
+sudo chown -R $(whoami):$(whoami) /home/$(whoami)/wallpapers
 
+reboot
