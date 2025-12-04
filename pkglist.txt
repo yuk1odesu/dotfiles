@@ -37,6 +37,7 @@ pipewire-pulse
 python-pywal
 python-pywalfox
 qt6ct
+ranger
 sof-firmware
 thunar
 ttf-fira-code
