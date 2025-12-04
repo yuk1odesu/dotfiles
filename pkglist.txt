@@ -5,6 +5,7 @@ bluez
 bluez-utils
 btop
 cava
+dolphin
 efibootmgr
 fastfetch
 firefox
@@ -29,6 +30,7 @@ nvidia-prime
 nvidia-settings
 nvidia-utils
 nwg-displays
+obsidian
 os-prober
 pipewire
 pipewire-alsa
@@ -40,9 +42,11 @@ qt6ct
 ranger
 sof-firmware
 thunar
+thunar-volman
 ttf-fira-code
 tty-clock
 vim
+vlc
 vulkan-intel
 walogram-git
 waypaper
