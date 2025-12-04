@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yuk1o/Pictures/wallpapers/Meptl.png",
+    "alpha": "100",
+    "special": {
+        "background": "#060409",
+        "foreground": "#cfe1e0",
+        "cursor": "#cfe1e0"
+    },
+    "colors": {
+        "color0": "#060409",
+        "color1": "#66A2AE",
+        "color2": "#70B3C5",
+        "color3": "#60D5E2",
+        "color4": "#97A9A4",
+        "color5": "#A2C0B7",
+        "color6": "#A2D6D7",
+        "color7": "#cfe1e0",
+        "color8": "#909d9c",
+        "color9": "#66A2AE",
+        "color10": "#70B3C5",
+        "color11": "#60D5E2",
+        "color12": "#97A9A4",
+        "color13": "#A2C0B7",
+        "color14": "#A2D6D7",
+        "color15": "#cfe1e0"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yuk1o/Pictures/wallpapers/hutao-synth.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0E0D13",
+        "foreground": "#e696bb",
+        "cursor": "#e696bb"
+    },
+    "colors": {
+        "color0": "#0E0D13",
+        "color1": "#9E1350",
+        "color2": "#E2245C",
+        "color3": "#BA5D63",
+        "color4": "#FE9F00",
+        "color5": "#FDD100",
+        "color6": "#D69266",
+        "color7": "#e696bb",
+        "color8": "#a16982",
+        "color9": "#9E1350",
+        "color10": "#E2245C",
+        "color11": "#BA5D63",
+        "color12": "#FE9F00",
+        "color13": "#FDD100",
+        "color14": "#D69266",
+        "color15": "#e696bb"
+    }
+}

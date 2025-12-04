@@ -1,0 +1,16 @@
+ayugram-desktop-bin
+ayugram-desktop-bin-debug
+python-imageio-ffmpeg
+python-pywalfox
+python-screeninfo
+tty-clock
+tty-clock-debug
+walogram-git
+waypaper
+wlogout
+wlogout-debug
+wpgtk
+yandex-music
+yay
+yay-debug
+zen-browser-bin
