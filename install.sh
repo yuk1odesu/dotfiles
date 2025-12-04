@@ -14,21 +14,15 @@ if ! command -v yay &> /dev/null; then
 fi
 
 # Install packages from pkglist with pacman
-if [ -f pkglist ]; then
-  sudo pacman -S --needed --noconfirm - < pkglist
-fi
-
 sudo pacman -S --needed --noconfirm $(comm -13 <(pacman -Qqq | sort) <(sort pkglist.txt))
 
 # Install packages from aurpkglist with yay
-if [ -f aurpkglist ]; then
-  yay -S --needed --noconfirm - < aurpkglist
-fi
+yay -S --needed --noconfirm - < aurpkglist.txt
 
 # Install Oh My Zsh non-interactively
-if [ ! -d "$HOME/.oh-my-zsh" ]; then
-  sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" "" --unattended
-fi
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" "" --unattended
+
+chsh -s $(which zsh)
 
 # Install Oh My Zsh plugins: zsh-autosuggestions and zsh-syntax-highlighting
 ZSH_CUSTOM=${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}
