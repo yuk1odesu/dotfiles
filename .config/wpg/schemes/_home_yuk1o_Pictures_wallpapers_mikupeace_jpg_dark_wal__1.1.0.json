@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yuk1o/Pictures/wallpapers/mikupeace.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#120f25",
+        "foreground": "#e9e6ef",
+        "cursor": "#e9e6ef"
+    },
+    "colors": {
+        "color0": "#120f25",
+        "color1": "#3090F5",
+        "color2": "#5C9CF3",
+        "color3": "#66D2F8",
+        "color4": "#95A9F0",
+        "color5": "#E59DC2",
+        "color6": "#A2D5FC",
+        "color7": "#e9e6ef",
+        "color8": "#a3a1a7",
+        "color9": "#3090F5",
+        "color10": "#5C9CF3",
+        "color11": "#66D2F8",
+        "color12": "#95A9F0",
+        "color13": "#E59DC2",
+        "color14": "#A2D5FC",
+        "color15": "#e9e6ef"
+    }
+}

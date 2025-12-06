@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yuk1o/Pictures/wallpapers/boat_abondoned.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0b0a1b",
+        "foreground": "#d1c7d5",
+        "cursor": "#d1c7d5"
+    },
+    "colors": {
+        "color0": "#0b0a1b",
+        "color1": "#564B62",
+        "color2": "#C53547",
+        "color3": "#F65763",
+        "color4": "#34539B",
+        "color5": "#E97985",
+        "color6": "#5E97CB",
+        "color7": "#d1c7d5",
+        "color8": "#928b95",
+        "color9": "#564B62",
+        "color10": "#C53547",
+        "color11": "#F65763",
+        "color12": "#34539B",
+        "color13": "#E97985",
+        "color14": "#5E97CB",
+        "color15": "#d1c7d5"
+    }
+}

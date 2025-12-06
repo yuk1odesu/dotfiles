@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yuk1o/Pictures/wallpapers/furinachills.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a1013",
+        "foreground": "#e9dbd4",
+        "cursor": "#e9dbd4"
+    },
+    "colors": {
+        "color0": "#0a1013",
+        "color1": "#544E54",
+        "color2": "#996E68",
+        "color3": "#B08F64",
+        "color4": "#946F8A",
+        "color5": "#A39A9B",
+        "color6": "#D2B4A9",
+        "color7": "#e9dbd4",
+        "color8": "#a39994",
+        "color9": "#544E54",
+        "color10": "#996E68",
+        "color11": "#B08F64",
+        "color12": "#946F8A",
+        "color13": "#A39A9B",
+        "color14": "#D2B4A9",
+        "color15": "#e9dbd4"
+    }
+}

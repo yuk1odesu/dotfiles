@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yuk1o/Pictures/wallpapers/mikuyoshinoko.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0f14",
+        "foreground": "#c1bfc9",
+        "cursor": "#c1bfc9"
+    },
+    "colors": {
+        "color0": "#0c0f14",
+        "color1": "#A5295D",
+        "color2": "#8D6858",
+        "color3": "#96857C",
+        "color4": "#267187",
+        "color5": "#63758E",
+        "color6": "#63A6AD",
+        "color7": "#c1bfc9",
+        "color8": "#87858c",
+        "color9": "#A5295D",
+        "color10": "#8D6858",
+        "color11": "#96857C",
+        "color12": "#267187",
+        "color13": "#63758E",
+        "color14": "#63A6AD",
+        "color15": "#c1bfc9"
+    }
+}

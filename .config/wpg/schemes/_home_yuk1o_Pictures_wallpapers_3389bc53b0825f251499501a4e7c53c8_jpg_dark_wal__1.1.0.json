@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yuk1o/Pictures/wallpapers/3389bc53b0825f251499501a4e7c53c8.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#030207",
+        "foreground": "#cad0dd",
+        "cursor": "#cad0dd"
+    },
+    "colors": {
+        "color0": "#030207",
+        "color1": "#36349C",
+        "color2": "#5E6A93",
+        "color3": "#A75CC4",
+        "color4": "#738BA8",
+        "color5": "#599ECB",
+        "color6": "#9DB0CD",
+        "color7": "#cad0dd",
+        "color8": "#8d919a",
+        "color9": "#36349C",
+        "color10": "#5E6A93",
+        "color11": "#A75CC4",
+        "color12": "#738BA8",
+        "color13": "#599ECB",
+        "color14": "#9DB0CD",
+        "color15": "#cad0dd"
+    }
+}

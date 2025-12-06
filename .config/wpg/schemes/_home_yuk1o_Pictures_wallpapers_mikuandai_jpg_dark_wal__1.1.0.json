@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yuk1o/Pictures/wallpapers/mikuandai.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#040612",
+        "foreground": "#a4c8d8",
+        "cursor": "#a4c8d8"
+    },
+    "colors": {
+        "color0": "#040612",
+        "color1": "#2A5FA5",
+        "color2": "#61579F",
+        "color3": "#2C70C8",
+        "color4": "#AC4A9D",
+        "color5": "#278CB8",
+        "color6": "#2BA1C8",
+        "color7": "#a4c8d8",
+        "color8": "#728c97",
+        "color9": "#2A5FA5",
+        "color10": "#61579F",
+        "color11": "#2C70C8",
+        "color12": "#AC4A9D",
+        "color13": "#278CB8",
+        "color14": "#2BA1C8",
+        "color15": "#a4c8d8"
+    }
+}

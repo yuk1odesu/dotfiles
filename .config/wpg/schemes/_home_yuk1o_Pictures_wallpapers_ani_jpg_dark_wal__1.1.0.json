@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yuk1o/Pictures/wallpapers/ani.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#07070F",
+        "foreground": "#e6e0e9",
+        "cursor": "#e6e0e9"
+    },
+    "colors": {
+        "color0": "#07070F",
+        "color1": "#F7094F",
+        "color2": "#3B53B0",
+        "color3": "#B96F8B",
+        "color4": "#1ABAE4",
+        "color5": "#A498A5",
+        "color6": "#D0ABBF",
+        "color7": "#e6e0e9",
+        "color8": "#a19ca3",
+        "color9": "#F7094F",
+        "color10": "#3B53B0",
+        "color11": "#B96F8B",
+        "color12": "#1ABAE4",
+        "color13": "#A498A5",
+        "color14": "#D0ABBF",
+        "color15": "#e6e0e9"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yuk1o/Pictures/wallpapers/fur1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#071735",
+        "foreground": "#dee6ee",
+        "cursor": "#dee6ee"
+    },
+    "colors": {
+        "color0": "#071735",
+        "color1": "#7D848D",
+        "color2": "#439EDD",
+        "color3": "#57A4DC",
+        "color4": "#A0A1B3",
+        "color5": "#A5B5D3",
+        "color6": "#B1CAE2",
+        "color7": "#dee6ee",
+        "color8": "#9ba1a6",
+        "color9": "#7D848D",
+        "color10": "#439EDD",
+        "color11": "#57A4DC",
+        "color12": "#A0A1B3",
+        "color13": "#A5B5D3",
+        "color14": "#B1CAE2",
+        "color15": "#dee6ee"
+    }
+}

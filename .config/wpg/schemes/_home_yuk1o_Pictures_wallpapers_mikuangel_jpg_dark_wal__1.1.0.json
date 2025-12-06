@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yuk1o/Pictures/wallpapers/mikuangel.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#060D15",
+        "foreground": "#c6c3b6",
+        "cursor": "#c6c3b6"
+    },
+    "colors": {
+        "color0": "#060D15",
+        "color1": "#1D5850",
+        "color2": "#046F68",
+        "color3": "#595855",
+        "color4": "#BE3125",
+        "color5": "#089072",
+        "color6": "#50AD74",
+        "color7": "#c6c3b6",
+        "color8": "#8a887f",
+        "color9": "#1D5850",
+        "color10": "#046F68",
+        "color11": "#595855",
+        "color12": "#BE3125",
+        "color13": "#089072",
+        "color14": "#50AD74",
+        "color15": "#c6c3b6"
+    }
+}

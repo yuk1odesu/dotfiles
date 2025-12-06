@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yuk1o/Pictures/wallpapers/mikuevil.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#030614",
+        "foreground": "#ed99c8",
+        "cursor": "#ed99c8"
+    },
+    "colors": {
+        "color0": "#030614",
+        "color1": "#035269",
+        "color2": "#4A515F",
+        "color3": "#AC0647",
+        "color4": "#DF0459",
+        "color5": "#F60171",
+        "color6": "#F7078B",
+        "color7": "#ed99c8",
+        "color8": "#a56b8c",
+        "color9": "#035269",
+        "color10": "#4A515F",
+        "color11": "#AC0647",
+        "color12": "#DF0459",
+        "color13": "#F60171",
+        "color14": "#F7078B",
+        "color15": "#ed99c8"
+    }
+}

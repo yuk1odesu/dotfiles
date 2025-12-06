@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yuk1o/Pictures/wallpapers/mikubeam.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#05017C",
+        "foreground": "#eddef4",
+        "cursor": "#eddef4"
+    },
+    "colors": {
+        "color0": "#05017C",
+        "color1": "#799CEA",
+        "color2": "#658CFD",
+        "color3": "#9D9EEE",
+        "color4": "#DE95FA",
+        "color5": "#F2B7FD",
+        "color6": "#AEC5EC",
+        "color7": "#eddef4",
+        "color8": "#a59baa",
+        "color9": "#799CEA",
+        "color10": "#658CFD",
+        "color11": "#9D9EEE",
+        "color12": "#DE95FA",
+        "color13": "#F2B7FD",
+        "color14": "#AEC5EC",
+        "color15": "#eddef4"
+    }
+}

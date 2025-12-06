@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yuk1o/Pictures/wallpapers/glitch.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#020202",
+        "foreground": "#98cdce",
+        "cursor": "#98cdce"
+    },
+    "colors": {
+        "color0": "#020202",
+        "color1": "#64AE63",
+        "color2": "#AAA75E",
+        "color3": "#5A60A7",
+        "color4": "#D517B0",
+        "color5": "#A7489E",
+        "color6": "#EC06CF",
+        "color7": "#98cdce",
+        "color8": "#6a8f90",
+        "color9": "#64AE63",
+        "color10": "#AAA75E",
+        "color11": "#5A60A7",
+        "color12": "#D517B0",
+        "color13": "#A7489E",
+        "color14": "#EC06CF",
+        "color15": "#98cdce"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yuk1o/Pictures/wallpapers/furking.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#05062D",
+        "foreground": "#c8c7c8",
+        "cursor": "#c8c7c8"
+    },
+    "colors": {
+        "color0": "#05062D",
+        "color1": "#134D94",
+        "color2": "#23599E",
+        "color3": "#375896",
+        "color4": "#326FB8",
+        "color5": "#678EAF",
+        "color6": "#979597",
+        "color7": "#c8c7c8",
+        "color8": "#8c8b8c",
+        "color9": "#134D94",
+        "color10": "#23599E",
+        "color11": "#375896",
+        "color12": "#326FB8",
+        "color13": "#678EAF",
+        "color14": "#979597",
+        "color15": "#c8c7c8"
+    }
+}

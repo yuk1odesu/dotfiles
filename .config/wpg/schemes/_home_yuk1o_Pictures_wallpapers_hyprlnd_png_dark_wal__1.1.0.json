@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yuk1o/Pictures/wallpapers/hyprlnd.png",
+    "alpha": "100",
+    "special": {
+        "background": "#00181E",
+        "foreground": "#77dff6",
+        "cursor": "#77dff6"
+    },
+    "colors": {
+        "color0": "#00181E",
+        "color1": "#00819E",
+        "color2": "#008AAA",
+        "color3": "#009EC2",
+        "color4": "#00A2C7",
+        "color5": "#00BBE5",
+        "color6": "#00C1EC",
+        "color7": "#77dff6",
+        "color8": "#539cac",
+        "color9": "#00819E",
+        "color10": "#008AAA",
+        "color11": "#009EC2",
+        "color12": "#00A2C7",
+        "color13": "#00BBE5",
+        "color14": "#00C1EC",
+        "color15": "#77dff6"
+    }
+}

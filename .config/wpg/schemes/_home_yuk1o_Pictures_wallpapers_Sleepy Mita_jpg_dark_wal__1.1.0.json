@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yuk1o/Pictures/wallpapers/Sleepy Mita.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1b1222",
+        "foreground": "#e5d6d1",
+        "cursor": "#e5d6d1"
+    },
+    "colors": {
+        "color0": "#1b1222",
+        "color1": "#473784",
+        "color2": "#55458A",
+        "color3": "#6A58A6",
+        "color4": "#7470C6",
+        "color5": "#927095",
+        "color6": "#7895EC",
+        "color7": "#e5d6d1",
+        "color8": "#a09592",
+        "color9": "#473784",
+        "color10": "#55458A",
+        "color11": "#6A58A6",
+        "color12": "#7470C6",
+        "color13": "#927095",
+        "color14": "#7895EC",
+        "color15": "#e5d6d1"
+    }
+}

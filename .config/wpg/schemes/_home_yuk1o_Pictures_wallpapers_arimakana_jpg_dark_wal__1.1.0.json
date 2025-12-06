@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yuk1o/Pictures/wallpapers/arimakana.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f0105",
+        "foreground": "#ecc2ca",
+        "cursor": "#ecc2ca"
+    },
+    "colors": {
+        "color0": "#0f0105",
+        "color1": "#B36977",
+        "color2": "#9E4C85",
+        "color3": "#964092",
+        "color4": "#BC7685",
+        "color5": "#A1649E",
+        "color6": "#D4738B",
+        "color7": "#ecc2ca",
+        "color8": "#a5878d",
+        "color9": "#B36977",
+        "color10": "#9E4C85",
+        "color11": "#964092",
+        "color12": "#BC7685",
+        "color13": "#A1649E",
+        "color14": "#D4738B",
+        "color15": "#ecc2ca"
+    }
+}

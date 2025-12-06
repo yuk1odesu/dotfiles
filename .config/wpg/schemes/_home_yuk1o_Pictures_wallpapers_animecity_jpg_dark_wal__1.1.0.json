@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yuk1o/Pictures/wallpapers/animecity.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0C171E",
+        "foreground": "#c3d3e3",
+        "cursor": "#c3d3e3"
+    },
+    "colors": {
+        "color0": "#0C171E",
+        "color1": "#3A618A",
+        "color2": "#4B6E92",
+        "color3": "#4E6C97",
+        "color4": "#7A7C83",
+        "color5": "#628BAF",
+        "color6": "#71A0CA",
+        "color7": "#c3d3e3",
+        "color8": "#88939e",
+        "color9": "#3A618A",
+        "color10": "#4B6E92",
+        "color11": "#4E6C97",
+        "color12": "#7A7C83",
+        "color13": "#628BAF",
+        "color14": "#71A0CA",
+        "color15": "#c3d3e3"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yuk1o/Pictures/wallpapers/wallhaven-d8gmmm.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0F0F0F",
+        "foreground": "#baaecd",
+        "cursor": "#baaecd"
+    },
+    "colors": {
+        "color0": "#0F0F0F",
+        "color1": "#695B7C",
+        "color2": "#3C2786",
+        "color3": "#5821A5",
+        "color4": "#5539AE",
+        "color5": "#6F5D82",
+        "color6": "#72618B",
+        "color7": "#baaecd",
+        "color8": "#82798f",
+        "color9": "#695B7C",
+        "color10": "#3C2786",
+        "color11": "#5821A5",
+        "color12": "#5539AE",
+        "color13": "#6F5D82",
+        "color14": "#72618B",
+        "color15": "#baaecd"
+    }
+}

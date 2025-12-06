@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yuk1o/Pictures/wallpapers/VDawg.png",
+    "alpha": "100",
+    "special": {
+        "background": "#010610",
+        "foreground": "#86d8e5",
+        "cursor": "#86d8e5"
+    },
+    "colors": {
+        "color0": "#010610",
+        "color1": "#41657A",
+        "color2": "#015D99",
+        "color3": "#21548A",
+        "color4": "#0068D9",
+        "color5": "#048FAC",
+        "color6": "#01A3DF",
+        "color7": "#86d8e5",
+        "color8": "#5d97a0",
+        "color9": "#41657A",
+        "color10": "#015D99",
+        "color11": "#21548A",
+        "color12": "#0068D9",
+        "color13": "#048FAC",
+        "color14": "#01A3DF",
+        "color15": "#86d8e5"
+    }
+}

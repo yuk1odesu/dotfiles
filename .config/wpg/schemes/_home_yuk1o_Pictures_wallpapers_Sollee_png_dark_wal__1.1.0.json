@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yuk1o/Pictures/wallpapers/Sollee.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0c0c",
+        "foreground": "#cfcfcf",
+        "cursor": "#cfcfcf"
+    },
+    "colors": {
+        "color0": "#0c0c0c",
+        "color1": "#0C4C70",
+        "color2": "#5D5D5D",
+        "color3": "#076CA5",
+        "color4": "#057EC2",
+        "color5": "#0481C6",
+        "color6": "#8F8F8F",
+        "color7": "#cfcfcf",
+        "color8": "#909090",
+        "color9": "#0C4C70",
+        "color10": "#5D5D5D",
+        "color11": "#076CA5",
+        "color12": "#057EC2",
+        "color13": "#0481C6",
+        "color14": "#8F8F8F",
+        "color15": "#cfcfcf"
+    }
+}

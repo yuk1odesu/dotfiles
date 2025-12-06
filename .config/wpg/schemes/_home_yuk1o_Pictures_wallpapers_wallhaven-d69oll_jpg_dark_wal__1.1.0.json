@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yuk1o/Pictures/wallpapers/wallhaven-d69oll.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#12151c",
+        "foreground": "#d7d3dd",
+        "cursor": "#d7d3dd"
+    },
+    "colors": {
+        "color0": "#12151c",
+        "color1": "#3D5886",
+        "color2": "#576A90",
+        "color3": "#9A6A83",
+        "color4": "#718CAD",
+        "color5": "#9D94A8",
+        "color6": "#A5AED0",
+        "color7": "#d7d3dd",
+        "color8": "#96939a",
+        "color9": "#3D5886",
+        "color10": "#576A90",
+        "color11": "#9A6A83",
+        "color12": "#718CAD",
+        "color13": "#9D94A8",
+        "color14": "#A5AED0",
+        "color15": "#d7d3dd"
+    }
+}

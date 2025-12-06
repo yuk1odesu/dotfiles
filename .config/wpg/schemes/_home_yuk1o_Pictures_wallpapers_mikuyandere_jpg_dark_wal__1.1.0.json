@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yuk1o/Pictures/wallpapers/mikuyandere.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#020808",
+        "foreground": "#c9ced3",
+        "cursor": "#c9ced3"
+    },
+    "colors": {
+        "color0": "#020808",
+        "color1": "#137095",
+        "color2": "#6A7A86",
+        "color3": "#259C9C",
+        "color4": "#148BB5",
+        "color5": "#43B6BE",
+        "color6": "#95A1AA",
+        "color7": "#c9ced3",
+        "color8": "#8c9093",
+        "color9": "#137095",
+        "color10": "#6A7A86",
+        "color11": "#259C9C",
+        "color12": "#148BB5",
+        "color13": "#43B6BE",
+        "color14": "#95A1AA",
+        "color15": "#c9ced3"
+    }
+}

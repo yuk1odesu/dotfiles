@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yuk1o/Pictures/wallpapers/toga himiko wallpaper.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0e1237",
+        "foreground": "#e1d9d0",
+        "cursor": "#e1d9d0"
+    },
+    "colors": {
+        "color0": "#0e1237",
+        "color1": "#1C5599",
+        "color2": "#5D5D94",
+        "color3": "#B94E8A",
+        "color4": "#6A8DB1",
+        "color5": "#ABA0A5",
+        "color6": "#D0AEAC",
+        "color7": "#e1d9d0",
+        "color8": "#9d9791",
+        "color9": "#1C5599",
+        "color10": "#5D5D94",
+        "color11": "#B94E8A",
+        "color12": "#6A8DB1",
+        "color13": "#ABA0A5",
+        "color14": "#D0AEAC",
+        "color15": "#e1d9d0"
+    }
+}

@@ -1,0 +1,1233 @@
+[04.12.2025, 15:32:23,529] [info] (DeviceInfo) {
+  "application": {
+    "version": "5.78.7",
+    "build": "5.78.7/cd29a9a208d6d5f5664682c9c1e98256fd82cc69"
+  },
+  "language": {
+    "locale": "en-US",
+    "countryCode": "US",
+    "preferredSystemLanguages": [
+      "en-US",
+      "en-US",
+      "en",
+      "en"
+    ]
+  },
+  "os": {
+    "type": "Linux",
+    "release": "6.17.9-arch1-1",
+    "arch": "x64",
+    "version": "#1 SMP PREEMPT_DYNAMIC Mon, 24 Nov 2025 15:21:09 +0000",
+    "platform": "linux",
+    "machine": "x86_64"
+  }
+}
+[04.12.2025, 15:32:23,532] [info] (DeviceInfo) {
+  "memory": {
+    "freeMB": 12701,
+    "totalMB": 15672
+  },
+  "storage": {
+    "freeMB": 861635,
+    "totalMB": 899204
+  }
+}
+[04.12.2025, 15:32:23,533] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[04.12.2025, 15:32:23,540] [info] (UpdateLogger) Logger inside "electron-updater" package Generated new staging user ID: 99328005-0c82-59fe-8f0e-b2819c76523b
+[04.12.2025, 15:32:23,559] [info] (Events) Event sent REFRESH_APPLICATION_DATA
+[04.12.2025, 15:32:23,563] [info] (Events) Event sent REFRESH_APPLICATION_DATA
+[04.12.2025, 15:32:23,747] [info] (Events) Event handle GET_PASSPORT_LOGIN
+[04.12.2025, 15:32:23,747] [info] (Events) Event handle GET_YANDEX_UID
+[04.12.2025, 15:32:23,767] [info] (UpdateLogger) Logger inside "electron-updater" package Update for version 5.78.7 is not available (latest version: 5.78.7, downgrade is disallowed).
+[04.12.2025, 15:32:23,768] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.73.7',
+  UPDATE_URL: 'https://music-desktop-application.s3.yandex.net/stable/'
+}
+[04.12.2025, 15:32:23,860] [info] (Events) Event received APPLICATION_READY
+[04.12.2025, 15:32:23,865] [info] (Events) Event send FIRST_LAUNCH
+[04.12.2025, 15:32:23,865] [info] (Events) Event sent PROBABILITY_BUCKET 50-100
+[04.12.2025, 15:32:23,907] [info] (DeviceInfo) {
+  "cpu": "Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz"
+}
+[04.12.2025, 15:32:23,907] [info] (Events) Event received APPLICATION_THEME
+[04.12.2025, 15:32:24,058] [info] (Common) Request to https://music-desktop-application.s3.yandex.net/stable/release-notes/en.json completed with status:  200
+[04.12.2025, 15:32:24,065] [info] (Events) Event sent LOAD_RELEASE_NOTES
+[04.12.2025, 15:32:24,463] [info] (Events) Event received PLAYER_STATE false undefined undefined
+[04.12.2025, 15:33:02,227] [info] (Events) Event handle GET_PASSPORT_LOGIN
+[04.12.2025, 15:33:02,227] [info] (Events) Event handle GET_YANDEX_UID
+[04.12.2025, 15:33:02,537] [info] (Events) Event handle GET_PASSPORT_LOGIN
+[04.12.2025, 15:33:02,539] [info] (Events) Event handle GET_YANDEX_UID
+[04.12.2025, 15:33:02,799] [info] (Events) Event received APPLICATION_READY
+[04.12.2025, 15:33:02,806] [info] (Events) Event sent PROBABILITY_BUCKET 50-100
+[04.12.2025, 15:33:02,812] [info] (Events) Event received APPLICATION_THEME
+[04.12.2025, 15:33:02,841] [info] (Common) Request to https://music-desktop-application.s3.yandex.net/stable/release-notes/en.json completed with status:  200
+[04.12.2025, 15:33:02,846] [info] (Events) Event sent LOAD_RELEASE_NOTES
+[04.12.2025, 15:33:03,486] [info] (Events) Event received PLAYER_STATE false undefined undefined
+[04.12.2025, 15:33:04,226] [info] (Events) Event received PLAYER_STATE undefined false undefined
+[04.12.2025, 15:33:04,228] [info] (Events) Event received PLAYER_STATE undefined undefined true
+[04.12.2025, 15:33:17,008] [info] (Events) Event send REFRESH_REPOSITORY_META
+[04.12.2025, 15:33:17,009] [info] (Events) Event received REPOSITORY_META_UPDATED
+[04.12.2025, 15:34:56,813] [info] (Events) Event received APPLICATION_THEME
+[04.12.2025, 15:35:03,007] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[04.12.2025, 15:35:03,008] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[04.12.2025, 15:35:03,014] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[04.12.2025, 15:35:05,417] [info] (Events) Event received APPLICATION_THEME
+[04.12.2025, 15:50:03,042] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[04.12.2025, 15:50:03,046] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[04.12.2025, 15:50:03,056] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[04.12.2025, 16:02:23,633] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[04.12.2025, 16:02:23,749] [info] (UpdateLogger) Logger inside "electron-updater" package Update for version 5.78.7 is not available (latest version: 5.78.7, downgrade is disallowed).
+[04.12.2025, 16:02:23,749] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.73.7',
+  UPDATE_URL: 'https://music-desktop-application.s3.yandex.net/stable/'
+}
+[04.12.2025, 16:05:03,110] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[04.12.2025, 16:05:03,113] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[04.12.2025, 16:05:03,122] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[04.12.2025, 16:24:09,054] [info] (Events) Event sent REFRESH_APPLICATION_DATA
+[04.12.2025, 16:25:03,057] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[04.12.2025, 16:25:03,058] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[04.12.2025, 16:25:03,064] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[04.12.2025, 16:32:23,673] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[04.12.2025, 16:32:23,755] [info] (UpdateLogger) Logger inside "electron-updater" package Update for version 5.78.7 is not available (latest version: 5.78.7, downgrade is disallowed).
+[04.12.2025, 16:32:23,755] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.73.7',
+  UPDATE_URL: 'https://music-desktop-application.s3.yandex.net/stable/'
+}
+[04.12.2025, 16:45:03,107] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[04.12.2025, 16:45:03,110] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[04.12.2025, 16:45:03,114] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[04.12.2025, 17:02:23,774] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[04.12.2025, 17:02:23,864] [info] (UpdateLogger) Logger inside "electron-updater" package Update for version 5.78.7 is not available (latest version: 5.78.7, downgrade is disallowed).
+[04.12.2025, 17:02:23,864] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.73.7',
+  UPDATE_URL: 'https://music-desktop-application.s3.yandex.net/stable/'
+}
+[04.12.2025, 17:05:03,072] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[04.12.2025, 17:05:03,073] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[04.12.2025, 17:05:03,079] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[04.12.2025, 17:17:37,437] [info] (Events) Event sent REFRESH_APPLICATION_DATA
+[04.12.2025, 17:20:03,106] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[04.12.2025, 17:20:03,108] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[04.12.2025, 17:20:03,114] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[04.12.2025, 17:32:23,845] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[04.12.2025, 17:32:23,916] [info] (UpdateLogger) Logger inside "electron-updater" package Update for version 5.78.7 is not available (latest version: 5.78.7, downgrade is disallowed).
+[04.12.2025, 17:32:23,916] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.73.7',
+  UPDATE_URL: 'https://music-desktop-application.s3.yandex.net/stable/'
+}
+[04.12.2025, 17:40:03,048] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[04.12.2025, 17:40:03,050] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[04.12.2025, 17:40:03,056] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[04.12.2025, 17:43:35,650] [info] (Events) Event sent REFRESH_APPLICATION_DATA
+[04.12.2025, 17:55:03,106] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[04.12.2025, 17:55:03,107] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[04.12.2025, 17:55:03,113] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[04.12.2025, 18:31:21,710] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[04.12.2025, 18:31:21,723] [info] (DeviceInfo) {
+  "memory": {
+    "freeMB": 11112,
+    "totalMB": 15672
+  },
+  "storage": {
+    "freeMB": 857551,
+    "totalMB": 899204
+  }
+}
+[04.12.2025, 18:31:21,764] [info] (Events) Event sent REFRESH_APPLICATION_DATA
+[04.12.2025, 18:31:21,768] [info] (Events) Event sent REFRESH_APPLICATION_DATA
+[04.12.2025, 18:31:21,979] [info] (Events) Event handle GET_PASSPORT_LOGIN
+[04.12.2025, 18:31:21,980] [info] (Events) Event handle GET_YANDEX_UID
+[04.12.2025, 18:31:22,031] [info] (UpdateLogger) Logger inside "electron-updater" package Update for version 5.78.7 is not available (latest version: 5.78.7, downgrade is disallowed).
+[04.12.2025, 18:31:22,032] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.73.7',
+  UPDATE_URL: 'https://music-desktop-application.s3.yandex.net/stable/'
+}
+[04.12.2025, 18:31:22,105] [info] (Events) Event received APPLICATION_READY
+[04.12.2025, 18:31:22,111] [info] (Events) Event sent PROBABILITY_BUCKET 50-100
+[04.12.2025, 18:31:22,155] [info] (Events) Event received APPLICATION_THEME
+[04.12.2025, 18:31:22,242] [info] (Common) Request to https://music-desktop-application.s3.yandex.net/stable/release-notes/en.json completed with status:  200
+[04.12.2025, 18:31:22,258] [info] (Events) Event sent LOAD_RELEASE_NOTES
+[04.12.2025, 18:31:23,502] [info] (Events) Event received PLAYER_STATE false undefined undefined
+[04.12.2025, 18:31:24,229] [info] (Events) Event received PLAYER_STATE undefined false undefined
+[04.12.2025, 18:31:24,231] [info] (Events) Event received PLAYER_STATE undefined undefined true
+[04.12.2025, 18:36:27,119] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[04.12.2025, 18:36:27,121] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[04.12.2025, 18:54:27,119] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[04.12.2025, 18:54:27,130] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[04.12.2025, 19:01:21,764] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[04.12.2025, 19:01:21,936] [info] (UpdateLogger) Logger inside "electron-updater" package Update for version 5.78.7 is not available (latest version: 5.78.7, downgrade is disallowed).
+[04.12.2025, 19:01:21,936] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.73.7',
+  UPDATE_URL: 'https://music-desktop-application.s3.yandex.net/stable/'
+}
+[04.12.2025, 19:12:27,118] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[04.12.2025, 19:12:27,124] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[04.12.2025, 19:23:36,058] [info] (Events) Event sent REFRESH_APPLICATION_DATA
+[04.12.2025, 19:30:27,113] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[04.12.2025, 19:30:27,117] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[04.12.2025, 19:31:21,814] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[04.12.2025, 19:31:21,880] [info] (UpdateLogger) Logger inside "electron-updater" package Update for version 5.78.7 is not available (latest version: 5.78.7, downgrade is disallowed).
+[04.12.2025, 19:31:21,880] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.73.7',
+  UPDATE_URL: 'https://music-desktop-application.s3.yandex.net/stable/'
+}
+[04.12.2025, 19:48:27,109] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[04.12.2025, 19:48:27,111] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[04.12.2025, 20:01:21,865] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[04.12.2025, 20:01:22,038] [info] (UpdateLogger) Logger inside "electron-updater" package Update for version 5.78.7 is not available (latest version: 5.78.7, downgrade is disallowed).
+[04.12.2025, 20:01:22,038] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.73.7',
+  UPDATE_URL: 'https://music-desktop-application.s3.yandex.net/stable/'
+}
+[04.12.2025, 20:06:27,105] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[04.12.2025, 20:06:27,108] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[04.12.2025, 20:24:27,105] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[04.12.2025, 20:24:27,106] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[04.12.2025, 20:31:21,916] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[04.12.2025, 20:31:22,055] [info] (UpdateLogger) Logger inside "electron-updater" package Update for version 5.78.7 is not available (latest version: 5.78.7, downgrade is disallowed).
+[04.12.2025, 20:31:22,056] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.73.7',
+  UPDATE_URL: 'https://music-desktop-application.s3.yandex.net/stable/'
+}
+[04.12.2025, 20:42:27,105] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[04.12.2025, 20:42:27,106] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[04.12.2025, 21:00:27,107] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[04.12.2025, 21:00:27,108] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[04.12.2025, 21:01:21,968] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[04.12.2025, 21:01:22,035] [info] (UpdateLogger) Logger inside "electron-updater" package Update for version 5.78.7 is not available (latest version: 5.78.7, downgrade is disallowed).
+[04.12.2025, 21:01:22,035] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.73.7',
+  UPDATE_URL: 'https://music-desktop-application.s3.yandex.net/stable/'
+}
+[04.12.2025, 21:18:27,110] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[04.12.2025, 21:18:27,112] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[04.12.2025, 21:31:22,017] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[04.12.2025, 21:31:22,089] [info] (UpdateLogger) Logger inside "electron-updater" package Update for version 5.78.7 is not available (latest version: 5.78.7, downgrade is disallowed).
+[04.12.2025, 21:31:22,089] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.73.7',
+  UPDATE_URL: 'https://music-desktop-application.s3.yandex.net/stable/'
+}
+[04.12.2025, 21:36:27,106] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[04.12.2025, 21:36:27,107] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[04.12.2025, 21:54:27,107] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[04.12.2025, 21:54:27,108] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[04.12.2025, 21:57:08,120] [info] (Events) Event sent REFRESH_APPLICATION_DATA
+[04.12.2025, 22:01:22,035] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[04.12.2025, 22:01:22,109] [info] (UpdateLogger) Logger inside "electron-updater" package Update for version 5.78.7 is not available (latest version: 5.78.7, downgrade is disallowed).
+[04.12.2025, 22:01:22,109] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.73.7',
+  UPDATE_URL: 'https://music-desktop-application.s3.yandex.net/stable/'
+}
+[04.12.2025, 22:12:27,105] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[04.12.2025, 22:12:27,106] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[04.12.2025, 22:30:27,088] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[04.12.2025, 22:30:27,090] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[04.12.2025, 22:31:22,085] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[04.12.2025, 22:31:22,209] [info] (UpdateLogger) Logger inside "electron-updater" package Update for version 5.78.7 is not available (latest version: 5.78.7, downgrade is disallowed).
+[04.12.2025, 22:31:22,209] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.73.7',
+  UPDATE_URL: 'https://music-desktop-application.s3.yandex.net/stable/'
+}
+[04.12.2025, 22:48:27,104] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[04.12.2025, 22:48:27,106] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[04.12.2025, 23:01:22,136] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[04.12.2025, 23:01:22,228] [info] (UpdateLogger) Logger inside "electron-updater" package Update for version 5.78.7 is not available (latest version: 5.78.7, downgrade is disallowed).
+[04.12.2025, 23:01:22,229] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.73.7',
+  UPDATE_URL: 'https://music-desktop-application.s3.yandex.net/stable/'
+}
+[04.12.2025, 23:06:27,105] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[04.12.2025, 23:06:27,107] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[04.12.2025, 23:24:27,105] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[04.12.2025, 23:24:27,107] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[04.12.2025, 23:31:22,187] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[04.12.2025, 23:31:22,281] [info] (UpdateLogger) Logger inside "electron-updater" package Update for version 5.78.7 is not available (latest version: 5.78.7, downgrade is disallowed).
+[04.12.2025, 23:31:22,282] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.73.7',
+  UPDATE_URL: 'https://music-desktop-application.s3.yandex.net/stable/'
+}
+[04.12.2025, 23:42:27,106] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[04.12.2025, 23:42:27,107] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[05.12.2025, 00:00:27,104] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[05.12.2025, 00:00:27,105] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[05.12.2025, 00:01:22,206] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[05.12.2025, 00:01:22,318] [info] (UpdateLogger) Logger inside "electron-updater" package Update for version 5.78.7 is not available (latest version: 5.78.7, downgrade is disallowed).
+[05.12.2025, 00:01:22,318] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.73.7',
+  UPDATE_URL: 'https://music-desktop-application.s3.yandex.net/stable/'
+}
+[05.12.2025, 00:18:27,105] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[05.12.2025, 00:18:27,107] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[05.12.2025, 00:31:22,257] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[05.12.2025, 00:31:22,439] [info] (UpdateLogger) Logger inside "electron-updater" package Update for version 5.78.7 is not available (latest version: 5.78.7, downgrade is disallowed).
+[05.12.2025, 00:31:22,439] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.73.7',
+  UPDATE_URL: 'https://music-desktop-application.s3.yandex.net/stable/'
+}
+[05.12.2025, 00:36:27,105] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[05.12.2025, 00:36:27,107] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[05.12.2025, 00:54:27,111] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[05.12.2025, 00:54:27,113] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[05.12.2025, 01:01:22,308] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[05.12.2025, 01:01:22,389] [info] (UpdateLogger) Logger inside "electron-updater" package Update for version 5.78.7 is not available (latest version: 5.78.7, downgrade is disallowed).
+[05.12.2025, 01:01:22,389] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.73.7',
+  UPDATE_URL: 'https://music-desktop-application.s3.yandex.net/stable/'
+}
+[05.12.2025, 01:12:27,105] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[05.12.2025, 01:12:27,107] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[05.12.2025, 01:30:27,106] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[05.12.2025, 01:30:27,107] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[05.12.2025, 01:31:22,360] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[05.12.2025, 01:31:22,581] [info] (UpdateLogger) Logger inside "electron-updater" package Update for version 5.78.7 is not available (latest version: 5.78.7, downgrade is disallowed).
+[05.12.2025, 01:31:22,581] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.73.7',
+  UPDATE_URL: 'https://music-desktop-application.s3.yandex.net/stable/'
+}
+[05.12.2025, 01:48:27,106] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[05.12.2025, 01:48:27,108] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[05.12.2025, 02:01:22,411] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[05.12.2025, 02:01:22,493] [info] (UpdateLogger) Logger inside "electron-updater" package Update for version 5.78.7 is not available (latest version: 5.78.7, downgrade is disallowed).
+[05.12.2025, 02:01:22,493] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.73.7',
+  UPDATE_URL: 'https://music-desktop-application.s3.yandex.net/stable/'
+}
+[05.12.2025, 02:06:27,105] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[05.12.2025, 02:06:27,106] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[05.12.2025, 02:20:49,144] [info] (Events) Event sent REFRESH_APPLICATION_DATA
+[05.12.2025, 02:24:27,104] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[05.12.2025, 02:24:27,106] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[05.12.2025, 02:31:22,463] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[05.12.2025, 02:31:22,641] [info] (UpdateLogger) Logger inside "electron-updater" package Update for version 5.78.7 is not available (latest version: 5.78.7, downgrade is disallowed).
+[05.12.2025, 02:31:22,641] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.73.7',
+  UPDATE_URL: 'https://music-desktop-application.s3.yandex.net/stable/'
+}
+[05.12.2025, 02:42:27,106] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[05.12.2025, 02:42:27,107] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[05.12.2025, 03:00:27,107] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[05.12.2025, 03:00:27,109] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[05.12.2025, 03:01:22,515] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[05.12.2025, 03:01:22,643] [info] (UpdateLogger) Logger inside "electron-updater" package Update for version 5.78.7 is not available (latest version: 5.78.7, downgrade is disallowed).
+[05.12.2025, 03:01:22,643] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.73.7',
+  UPDATE_URL: 'https://music-desktop-application.s3.yandex.net/stable/'
+}
+[05.12.2025, 03:04:19,976] [info] (Events) Event sent REFRESH_APPLICATION_DATA
+[05.12.2025, 03:18:27,106] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[05.12.2025, 03:18:27,108] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[05.12.2025, 03:31:22,567] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[05.12.2025, 03:31:22,639] [info] (UpdateLogger) Logger inside "electron-updater" package Update for version 5.78.7 is not available (latest version: 5.78.7, downgrade is disallowed).
+[05.12.2025, 03:31:22,639] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.73.7',
+  UPDATE_URL: 'https://music-desktop-application.s3.yandex.net/stable/'
+}
+[05.12.2025, 03:36:27,106] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[05.12.2025, 03:36:27,107] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[05.12.2025, 03:54:27,106] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[05.12.2025, 03:54:27,107] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[05.12.2025, 04:01:22,618] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[05.12.2025, 04:01:22,701] [info] (UpdateLogger) Logger inside "electron-updater" package Update for version 5.78.7 is not available (latest version: 5.78.7, downgrade is disallowed).
+[05.12.2025, 04:01:22,701] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.73.7',
+  UPDATE_URL: 'https://music-desktop-application.s3.yandex.net/stable/'
+}
+[05.12.2025, 17:57:16,125] [info] (DeviceInfo) {
+  "memory": {
+    "freeMB": 10556,
+    "totalMB": 15672
+  },
+  "storage": {
+    "freeMB": 856745,
+    "totalMB": 899204
+  }
+}
+[05.12.2025, 17:57:16,127] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[05.12.2025, 17:57:16,159] [info] (Events) Event sent REFRESH_APPLICATION_DATA
+[05.12.2025, 17:57:16,163] [info] (Events) Event sent REFRESH_APPLICATION_DATA
+[05.12.2025, 17:57:16,334] [info] (Events) Event handle GET_PASSPORT_LOGIN
+[05.12.2025, 17:57:16,334] [info] (Events) Event handle GET_YANDEX_UID
+[05.12.2025, 17:57:16,350] [info] (UpdateLogger) Logger inside "electron-updater" package Found version 5.79.2 (url: Yandex_Music_amd64_5.79.2.deb)
+[05.12.2025, 17:57:16,350] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.74.2',
+  UPDATE_URL: 'https://desktop.app.music.yandex.net/stable/'
+}
+[05.12.2025, 17:57:16,359] [info] (UpdateLogger) Update probability: 5; checking with client value 100
+[05.12.2025, 17:57:16,361] [info] (DeviceInfo) {
+  "memory": {
+    "freeMB": 10250,
+    "totalMB": 15672
+  },
+  "storage": {
+    "freeMB": 856745,
+    "totalMB": 899204
+  },
+  "appMetrics": {
+    "cpu": {
+      "cumulativeCPUUsage": 1.23,
+      "percentCPUUsage": 0,
+      "idleWakeupsPerSecond": 0
+    },
+    "memory": {
+      "workingSetSizeMB": 0,
+      "peakWorkingSetSizeMB": 0
+    }
+  }
+}
+[05.12.2025, 17:57:16,446] [info] (Events) Event received APPLICATION_READY
+[05.12.2025, 17:57:16,454] [info] (Events) Event sent PROBABILITY_BUCKET 50-100
+[05.12.2025, 17:57:16,498] [info] (Events) Event received APPLICATION_THEME
+[05.12.2025, 17:57:16,601] [info] (Common) Request to https://desktop.app.music.yandex.net/stable/release-notes/en.json completed with status:  200
+[05.12.2025, 17:57:16,613] [info] (Events) Event sent LOAD_RELEASE_NOTES
+[05.12.2025, 17:57:17,746] [info] (Events) Event received PLAYER_STATE false undefined undefined
+[05.12.2025, 17:57:18,584] [info] (Events) Event received PLAYER_STATE undefined false undefined
+[05.12.2025, 17:57:18,586] [info] (Events) Event received PLAYER_STATE undefined undefined true
+[05.12.2025, 17:57:18,777] [info] (Events) Event received PLAYER_STATE undefined true undefined
+[05.12.2025, 17:57:18,843] [info] (Events) Event received PLAYER_STATE undefined false undefined
+[05.12.2025, 18:00:27,014] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[05.12.2025, 18:00:27,016] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[05.12.2025, 18:00:38,007] [info] (Events) Event send REFRESH_REPOSITORY_META
+[05.12.2025, 18:00:38,009] [info] (Events) Event received REPOSITORY_META_UPDATED
+[05.12.2025, 18:15:27,105] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[05.12.2025, 18:15:27,107] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[05.12.2025, 18:15:52,807] [info] (Events) Event sent REFRESH_APPLICATION_DATA
+[05.12.2025, 18:27:16,167] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[05.12.2025, 18:27:16,292] [info] (UpdateLogger) Logger inside "electron-updater" package Found version 5.79.2 (url: Yandex_Music_amd64_5.79.2.deb)
+[05.12.2025, 18:27:16,292] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.74.2',
+  UPDATE_URL: 'https://desktop.app.music.yandex.net/stable/'
+}
+[05.12.2025, 18:27:16,293] [info] (UpdateLogger) Update probability: 5; checking with client value 100
+[05.12.2025, 18:27:16,294] [info] (DeviceInfo) {
+  "memory": {
+    "freeMB": 9151,
+    "totalMB": 15672
+  },
+  "storage": {
+    "freeMB": 856741,
+    "totalMB": 899204
+  },
+  "appMetrics": {
+    "cpu": {
+      "cumulativeCPUUsage": 25.39,
+      "percentCPUUsage": 0.11185600195809338,
+      "idleWakeupsPerSecond": 89
+    },
+    "memory": {
+      "workingSetSizeMB": 0,
+      "peakWorkingSetSizeMB": 0
+    }
+  }
+}
+[05.12.2025, 18:35:27,105] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[05.12.2025, 18:35:27,107] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[05.12.2025, 18:55:27,106] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[05.12.2025, 18:55:27,108] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[05.12.2025, 18:57:16,244] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[05.12.2025, 18:57:16,317] [info] (UpdateLogger) Logger inside "electron-updater" package Found version 5.79.2 (url: Yandex_Music_amd64_5.79.2.deb)
+[05.12.2025, 18:57:16,318] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.74.2',
+  UPDATE_URL: 'https://desktop.app.music.yandex.net/stable/'
+}
+[05.12.2025, 18:57:16,318] [info] (UpdateLogger) Update probability: 5; checking with client value 100
+[05.12.2025, 18:57:16,319] [info] (DeviceInfo) {
+  "memory": {
+    "freeMB": 9316,
+    "totalMB": 15672
+  },
+  "storage": {
+    "freeMB": 856738,
+    "totalMB": 899204
+  },
+  "appMetrics": {
+    "cpu": {
+      "cumulativeCPUUsage": 48.45,
+      "percentCPUUsage": 0.10675776055823062,
+      "idleWakeupsPerSecond": 89
+    },
+    "memory": {
+      "workingSetSizeMB": 0,
+      "peakWorkingSetSizeMB": 0
+    }
+  }
+}
+[05.12.2025, 19:10:27,120] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[05.12.2025, 19:10:27,122] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[05.12.2025, 19:27:16,343] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[05.12.2025, 19:27:16,438] [info] (UpdateLogger) Logger inside "electron-updater" package Found version 5.79.2 (url: Yandex_Music_amd64_5.79.2.deb)
+[05.12.2025, 19:27:16,438] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.74.2',
+  UPDATE_URL: 'https://desktop.app.music.yandex.net/stable/'
+}
+[05.12.2025, 19:27:16,439] [info] (UpdateLogger) Update probability: 5; checking with client value 100
+[05.12.2025, 19:27:16,443] [info] (DeviceInfo) {
+  "memory": {
+    "freeMB": 9178,
+    "totalMB": 15672
+  },
+  "storage": {
+    "freeMB": 856738,
+    "totalMB": 899204
+  },
+  "appMetrics": {
+    "cpu": {
+      "cumulativeCPUUsage": 79.87,
+      "percentCPUUsage": 0.14545313025055073,
+      "idleWakeupsPerSecond": 96
+    },
+    "memory": {
+      "workingSetSizeMB": 0,
+      "peakWorkingSetSizeMB": 0
+    }
+  }
+}
+[05.12.2025, 19:30:27,113] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[05.12.2025, 19:30:27,117] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[05.12.2025, 19:50:27,105] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[05.12.2025, 19:50:27,106] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[05.12.2025, 19:57:16,443] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[05.12.2025, 19:57:16,525] [info] (UpdateLogger) Logger inside "electron-updater" package Found version 5.79.2 (url: Yandex_Music_amd64_5.79.2.deb)
+[05.12.2025, 19:57:16,525] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.74.2',
+  UPDATE_URL: 'https://desktop.app.music.yandex.net/stable/'
+}
+[05.12.2025, 19:57:16,526] [info] (UpdateLogger) Update probability: 5; checking with client value 100
+[05.12.2025, 19:57:16,527] [info] (DeviceInfo) {
+  "memory": {
+    "freeMB": 8710,
+    "totalMB": 15672
+  },
+  "storage": {
+    "freeMB": 856738,
+    "totalMB": 899204
+  },
+  "appMetrics": {
+    "cpu": {
+      "cumulativeCPUUsage": 121.32,
+      "percentCPUUsage": 0.19188899099228798,
+      "idleWakeupsPerSecond": 105
+    },
+    "memory": {
+      "workingSetSizeMB": 0,
+      "peakWorkingSetSizeMB": 0
+    }
+  }
+}
+[05.12.2025, 20:10:27,112] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[05.12.2025, 20:10:27,115] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[05.12.2025, 20:27:16,543] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[05.12.2025, 20:27:16,618] [info] (UpdateLogger) Logger inside "electron-updater" package Found version 5.79.2 (url: Yandex_Music_amd64_5.79.2.deb)
+[05.12.2025, 20:27:16,618] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.74.2',
+  UPDATE_URL: 'https://desktop.app.music.yandex.net/stable/'
+}
+[05.12.2025, 20:27:16,618] [info] (UpdateLogger) Update probability: 5; checking with client value 100
+[05.12.2025, 20:27:16,619] [info] (DeviceInfo) {
+  "memory": {
+    "freeMB": 8675,
+    "totalMB": 15672
+  },
+  "storage": {
+    "freeMB": 856733,
+    "totalMB": 899204
+  },
+  "appMetrics": {
+    "cpu": {
+      "cumulativeCPUUsage": 152.92,
+      "percentCPUUsage": 0.14628879078734183,
+      "idleWakeupsPerSecond": 96
+    },
+    "memory": {
+      "workingSetSizeMB": 0,
+      "peakWorkingSetSizeMB": 0
+    }
+  }
+}
+[05.12.2025, 20:30:27,089] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[05.12.2025, 20:30:27,092] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[05.12.2025, 20:45:27,105] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[05.12.2025, 20:45:27,107] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[05.12.2025, 20:57:16,556] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[05.12.2025, 20:57:16,630] [info] (UpdateLogger) Logger inside "electron-updater" package Found version 5.79.2 (url: Yandex_Music_amd64_5.79.2.deb)
+[05.12.2025, 20:57:16,631] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.74.2',
+  UPDATE_URL: 'https://desktop.app.music.yandex.net/stable/'
+}
+[05.12.2025, 20:57:16,631] [info] (UpdateLogger) Update probability: 5; checking with client value 100
+[05.12.2025, 20:57:16,632] [info] (DeviceInfo) {
+  "memory": {
+    "freeMB": 8080,
+    "totalMB": 15672
+  },
+  "storage": {
+    "freeMB": 856736,
+    "totalMB": 899204
+  },
+  "appMetrics": {
+    "cpu": {
+      "cumulativeCPUUsage": 176.59,
+      "percentCPUUsage": 0.10958254360846907,
+      "idleWakeupsPerSecond": 86
+    },
+    "memory": {
+      "workingSetSizeMB": 0,
+      "peakWorkingSetSizeMB": 0
+    }
+  }
+}
+[05.12.2025, 21:05:27,109] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[05.12.2025, 21:05:27,111] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[05.12.2025, 21:25:27,016] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[05.12.2025, 21:25:27,018] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[05.12.2025, 21:27:16,585] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[05.12.2025, 21:27:16,653] [info] (UpdateLogger) Logger inside "electron-updater" package Found version 5.79.2 (url: Yandex_Music_amd64_5.79.2.deb)
+[05.12.2025, 21:27:16,653] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.74.2',
+  UPDATE_URL: 'https://desktop.app.music.yandex.net/stable/'
+}
+[05.12.2025, 21:27:16,654] [info] (UpdateLogger) Update probability: 5; checking with client value 100
+[05.12.2025, 21:27:16,655] [info] (DeviceInfo) {
+  "memory": {
+    "freeMB": 8805,
+    "totalMB": 15672
+  },
+  "storage": {
+    "freeMB": 856718,
+    "totalMB": 899204
+  },
+  "appMetrics": {
+    "cpu": {
+      "cumulativeCPUUsage": 200.27,
+      "percentCPUUsage": 0.10962824100524356,
+      "idleWakeupsPerSecond": 89
+    },
+    "memory": {
+      "workingSetSizeMB": 0,
+      "peakWorkingSetSizeMB": 0
+    }
+  }
+}
+[05.12.2025, 21:40:27,106] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[05.12.2025, 21:40:27,107] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[05.12.2025, 21:55:27,118] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[05.12.2025, 21:55:27,121] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[05.12.2025, 21:57:16,594] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[05.12.2025, 21:57:16,679] [info] (UpdateLogger) Logger inside "electron-updater" package Found version 5.79.2 (url: Yandex_Music_amd64_5.79.2.deb)
+[05.12.2025, 21:57:16,680] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.74.2',
+  UPDATE_URL: 'https://desktop.app.music.yandex.net/stable/'
+}
+[05.12.2025, 21:57:16,680] [info] (UpdateLogger) Update probability: 5; checking with client value 100
+[05.12.2025, 21:57:16,682] [info] (DeviceInfo) {
+  "memory": {
+    "freeMB": 8916,
+    "totalMB": 15672
+  },
+  "storage": {
+    "freeMB": 856712,
+    "totalMB": 899204
+  },
+  "appMetrics": {
+    "cpu": {
+      "cumulativeCPUUsage": 225.62,
+      "percentCPUUsage": 0.11735937536594944,
+      "idleWakeupsPerSecond": 88
+    },
+    "memory": {
+      "workingSetSizeMB": 0,
+      "peakWorkingSetSizeMB": 0
+    }
+  }
+}
+[05.12.2025, 22:15:27,109] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[05.12.2025, 22:15:27,111] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[05.12.2025, 22:27:16,659] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[05.12.2025, 22:27:16,741] [info] (UpdateLogger) Logger inside "electron-updater" package Found version 5.79.2 (url: Yandex_Music_amd64_5.79.2.deb)
+[05.12.2025, 22:27:16,741] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.74.2',
+  UPDATE_URL: 'https://desktop.app.music.yandex.net/stable/'
+}
+[05.12.2025, 22:27:16,742] [info] (UpdateLogger) Update probability: 5; checking with client value 100
+[05.12.2025, 22:27:16,743] [info] (DeviceInfo) {
+  "memory": {
+    "freeMB": 8805,
+    "totalMB": 15672
+  },
+  "storage": {
+    "freeMB": 856700,
+    "totalMB": 899204
+  },
+  "appMetrics": {
+    "cpu": {
+      "cumulativeCPUUsage": 254.2,
+      "percentCPUUsage": 0.13231028443716997,
+      "idleWakeupsPerSecond": 100
+    },
+    "memory": {
+      "workingSetSizeMB": 0,
+      "peakWorkingSetSizeMB": 0
+    }
+  }
+}
+[05.12.2025, 22:35:27,106] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[05.12.2025, 22:35:27,109] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[05.12.2025, 22:55:27,108] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[05.12.2025, 22:55:27,110] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[05.12.2025, 22:57:16,759] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[05.12.2025, 22:57:16,835] [info] (UpdateLogger) Logger inside "electron-updater" package Found version 5.79.2 (url: Yandex_Music_amd64_5.79.2.deb)
+[05.12.2025, 22:57:16,835] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.74.2',
+  UPDATE_URL: 'https://desktop.app.music.yandex.net/stable/'
+}
+[05.12.2025, 22:57:16,836] [info] (UpdateLogger) Update probability: 5; checking with client value 100
+[05.12.2025, 22:57:16,837] [info] (DeviceInfo) {
+  "memory": {
+    "freeMB": 8151,
+    "totalMB": 15672
+  },
+  "storage": {
+    "freeMB": 856104,
+    "totalMB": 899204
+  },
+  "appMetrics": {
+    "cpu": {
+      "cumulativeCPUUsage": 279.02,
+      "percentCPUUsage": 0.11490142563918863,
+      "idleWakeupsPerSecond": 84
+    },
+    "memory": {
+      "workingSetSizeMB": 0,
+      "peakWorkingSetSizeMB": 0
+    }
+  }
+}
+[05.12.2025, 23:15:27,077] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[05.12.2025, 23:15:27,079] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[05.12.2025, 23:27:16,859] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[05.12.2025, 23:27:17,069] [info] (UpdateLogger) Logger inside "electron-updater" package Found version 5.79.2 (url: Yandex_Music_amd64_5.79.2.deb)
+[05.12.2025, 23:27:17,069] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.74.2',
+  UPDATE_URL: 'https://desktop.app.music.yandex.net/stable/'
+}
+[05.12.2025, 23:27:17,069] [info] (UpdateLogger) Update probability: 5; checking with client value 100
+[05.12.2025, 23:27:17,071] [info] (DeviceInfo) {
+  "memory": {
+    "freeMB": 8176,
+    "totalMB": 15672
+  },
+  "storage": {
+    "freeMB": 856064,
+    "totalMB": 899204
+  },
+  "appMetrics": {
+    "cpu": {
+      "cumulativeCPUUsage": 302.66,
+      "percentCPUUsage": 0.10943024410722872,
+      "idleWakeupsPerSecond": 88
+    },
+    "memory": {
+      "workingSetSizeMB": 0,
+      "peakWorkingSetSizeMB": 0
+    }
+  }
+}
+[05.12.2025, 23:30:27,105] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[05.12.2025, 23:30:27,106] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[05.12.2025, 23:45:27,108] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[05.12.2025, 23:45:27,110] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[05.12.2025, 23:57:16,959] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[05.12.2025, 23:57:17,025] [info] (UpdateLogger) Logger inside "electron-updater" package Found version 5.79.2 (url: Yandex_Music_amd64_5.79.2.deb)
+[05.12.2025, 23:57:17,025] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.74.2',
+  UPDATE_URL: 'https://desktop.app.music.yandex.net/stable/'
+}
+[05.12.2025, 23:57:17,026] [info] (UpdateLogger) Update probability: 5; checking with client value 100
+[05.12.2025, 23:57:17,028] [info] (DeviceInfo) {
+  "memory": {
+    "freeMB": 7534,
+    "totalMB": 15672
+  },
+  "storage": {
+    "freeMB": 855946,
+    "totalMB": 899204
+  },
+  "appMetrics": {
+    "cpu": {
+      "cumulativeCPUUsage": 326.17,
+      "percentCPUUsage": 0.10884521219450231,
+      "idleWakeupsPerSecond": 90
+    },
+    "memory": {
+      "workingSetSizeMB": 0,
+      "peakWorkingSetSizeMB": 0
+    }
+  }
+}
+[06.12.2025, 00:05:27,107] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[06.12.2025, 00:05:27,109] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[06.12.2025, 00:25:27,105] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[06.12.2025, 00:25:27,106] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[06.12.2025, 00:27:17,059] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[06.12.2025, 00:27:17,136] [info] (UpdateLogger) Logger inside "electron-updater" package Found version 5.79.2 (url: Yandex_Music_amd64_5.79.2.deb)
+[06.12.2025, 00:27:17,137] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.74.2',
+  UPDATE_URL: 'https://desktop.app.music.yandex.net/stable/'
+}
+[06.12.2025, 00:27:17,137] [info] (UpdateLogger) Update probability: 5; checking with client value 100
+[06.12.2025, 00:27:17,138] [info] (DeviceInfo) {
+  "memory": {
+    "freeMB": 7544,
+    "totalMB": 15672
+  },
+  "storage": {
+    "freeMB": 855814,
+    "totalMB": 899204
+  },
+  "appMetrics": {
+    "cpu": {
+      "cumulativeCPUUsage": 350.74,
+      "percentCPUUsage": 0.11374298862941869,
+      "idleWakeupsPerSecond": 85
+    },
+    "memory": {
+      "workingSetSizeMB": 0,
+      "peakWorkingSetSizeMB": 0
+    }
+  }
+}
+[06.12.2025, 00:45:27,106] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[06.12.2025, 00:45:27,107] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[06.12.2025, 00:57:17,159] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[06.12.2025, 00:57:17,232] [info] (UpdateLogger) Logger inside "electron-updater" package Found version 5.79.2 (url: Yandex_Music_amd64_5.79.2.deb)
+[06.12.2025, 00:57:17,232] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.74.2',
+  UPDATE_URL: 'https://desktop.app.music.yandex.net/stable/'
+}
+[06.12.2025, 00:57:17,232] [info] (UpdateLogger) Update probability: 5; checking with client value 100
+[06.12.2025, 00:57:17,234] [info] (DeviceInfo) {
+  "memory": {
+    "freeMB": 7630,
+    "totalMB": 15672
+  },
+  "storage": {
+    "freeMB": 855786,
+    "totalMB": 899204
+  },
+  "appMetrics": {
+    "cpu": {
+      "cumulativeCPUUsage": 376.16,
+      "percentCPUUsage": 0.11767895264634426,
+      "idleWakeupsPerSecond": 87
+    },
+    "memory": {
+      "workingSetSizeMB": 0,
+      "peakWorkingSetSizeMB": 0
+    }
+  }
+}
+[06.12.2025, 01:05:27,099] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[06.12.2025, 01:05:27,103] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[06.12.2025, 01:20:27,106] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[06.12.2025, 01:20:27,109] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[06.12.2025, 01:27:17,259] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[06.12.2025, 01:27:17,335] [info] (UpdateLogger) Logger inside "electron-updater" package Found version 5.79.2 (url: Yandex_Music_amd64_5.79.2.deb)
+[06.12.2025, 01:27:17,335] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.74.2',
+  UPDATE_URL: 'https://desktop.app.music.yandex.net/stable/'
+}
+[06.12.2025, 01:27:17,336] [info] (UpdateLogger) Update probability: 5; checking with client value 100
+[06.12.2025, 01:27:17,337] [info] (DeviceInfo) {
+  "memory": {
+    "freeMB": 6956,
+    "totalMB": 15672
+  },
+  "storage": {
+    "freeMB": 855772,
+    "totalMB": 899204
+  },
+  "appMetrics": {
+    "cpu": {
+      "cumulativeCPUUsage": 400.69,
+      "percentCPUUsage": 0.11355829751485662,
+      "idleWakeupsPerSecond": 85
+    },
+    "memory": {
+      "workingSetSizeMB": 0,
+      "peakWorkingSetSizeMB": 0
+    }
+  }
+}
+[06.12.2025, 01:40:27,105] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[06.12.2025, 01:40:27,108] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[06.12.2025, 01:55:27,109] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[06.12.2025, 01:55:27,111] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[06.12.2025, 01:57:17,359] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[06.12.2025, 01:57:17,538] [info] (UpdateLogger) Logger inside "electron-updater" package Found version 5.79.2 (url: Yandex_Music_amd64_5.79.2.deb)
+[06.12.2025, 01:57:17,539] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.74.2',
+  UPDATE_URL: 'https://desktop.app.music.yandex.net/stable/'
+}
+[06.12.2025, 01:57:17,539] [info] (UpdateLogger) Update probability: 5; checking with client value 100
+[06.12.2025, 01:57:17,540] [info] (DeviceInfo) {
+  "memory": {
+    "freeMB": 6787,
+    "totalMB": 15672
+  },
+  "storage": {
+    "freeMB": 855750,
+    "totalMB": 899204
+  },
+  "appMetrics": {
+    "cpu": {
+      "cumulativeCPUUsage": 425.87,
+      "percentCPUUsage": 0.11656091072091423,
+      "idleWakeupsPerSecond": 91
+    },
+    "memory": {
+      "workingSetSizeMB": 0,
+      "peakWorkingSetSizeMB": 0
+    }
+  }
+}
+[06.12.2025, 02:15:27,103] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[06.12.2025, 02:15:27,105] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[06.12.2025, 02:27:17,459] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[06.12.2025, 02:27:17,548] [info] (UpdateLogger) Logger inside "electron-updater" package Found version 5.79.2 (url: Yandex_Music_amd64_5.79.2.deb)
+[06.12.2025, 02:27:17,549] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.74.2',
+  UPDATE_URL: 'https://desktop.app.music.yandex.net/stable/'
+}
+[06.12.2025, 02:27:17,549] [info] (UpdateLogger) Update probability: 5; checking with client value 100
+[06.12.2025, 02:27:17,550] [info] (DeviceInfo) {
+  "memory": {
+    "freeMB": 6265,
+    "totalMB": 15672
+  },
+  "storage": {
+    "freeMB": 855734,
+    "totalMB": 899204
+  },
+  "appMetrics": {
+    "cpu": {
+      "cumulativeCPUUsage": 452.28,
+      "percentCPUUsage": 0.12226782030133804,
+      "idleWakeupsPerSecond": 92
+    },
+    "memory": {
+      "workingSetSizeMB": 0,
+      "peakWorkingSetSizeMB": 0
+    }
+  }
+}
+[06.12.2025, 02:35:27,090] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[06.12.2025, 02:35:27,093] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[06.12.2025, 02:35:46,580] [info] (Events) Event sent REFRESH_APPLICATION_DATA
+[06.12.2025, 02:50:27,108] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[06.12.2025, 02:50:27,110] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[06.12.2025, 02:55:02,551] [info] (Events) Event sent REFRESH_APPLICATION_DATA
+[06.12.2025, 02:57:17,560] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[06.12.2025, 02:57:17,641] [info] (UpdateLogger) Logger inside "electron-updater" package Found version 5.79.2 (url: Yandex_Music_amd64_5.79.2.deb)
+[06.12.2025, 02:57:17,641] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.74.2',
+  UPDATE_URL: 'https://desktop.app.music.yandex.net/stable/'
+}
+[06.12.2025, 02:57:17,642] [info] (UpdateLogger) Update probability: 5; checking with client value 100
+[06.12.2025, 02:57:17,642] [info] (DeviceInfo) {
+  "memory": {
+    "freeMB": 6393,
+    "totalMB": 15672
+  },
+  "storage": {
+    "freeMB": 855728,
+    "totalMB": 899204
+  },
+  "appMetrics": {
+    "cpu": {
+      "cumulativeCPUUsage": 478.23,
+      "percentCPUUsage": 0.12013272574635608,
+      "idleWakeupsPerSecond": 91
+    },
+    "memory": {
+      "workingSetSizeMB": 0,
+      "peakWorkingSetSizeMB": 0
+    }
+  }
+}
+[06.12.2025, 03:10:27,101] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[06.12.2025, 03:10:27,103] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[06.12.2025, 03:27:17,660] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[06.12.2025, 03:27:17,735] [info] (UpdateLogger) Logger inside "electron-updater" package Found version 5.79.2 (url: Yandex_Music_amd64_5.79.2.deb)
+[06.12.2025, 03:27:17,735] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.74.2',
+  UPDATE_URL: 'https://desktop.app.music.yandex.net/stable/'
+}
+[06.12.2025, 03:27:17,735] [info] (UpdateLogger) Update probability: 5; checking with client value 100
+[06.12.2025, 03:27:17,736] [info] (DeviceInfo) {
+  "memory": {
+    "freeMB": 6516,
+    "totalMB": 15672
+  },
+  "storage": {
+    "freeMB": 855728,
+    "totalMB": 899204
+  },
+  "appMetrics": {
+    "cpu": {
+      "cumulativeCPUUsage": 503.74,
+      "percentCPUUsage": 0.11809570024682599,
+      "idleWakeupsPerSecond": 93
+    },
+    "memory": {
+      "workingSetSizeMB": 0,
+      "peakWorkingSetSizeMB": 0
+    }
+  }
+}
+[06.12.2025, 03:30:27,077] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[06.12.2025, 03:30:27,079] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[06.12.2025, 03:45:27,106] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[06.12.2025, 03:45:27,107] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[06.12.2025, 03:57:17,675] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[06.12.2025, 03:57:17,752] [info] (UpdateLogger) Logger inside "electron-updater" package Found version 5.79.2 (url: Yandex_Music_amd64_5.79.2.deb)
+[06.12.2025, 03:57:17,752] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.74.2',
+  UPDATE_URL: 'https://desktop.app.music.yandex.net/stable/'
+}
+[06.12.2025, 03:57:17,753] [info] (UpdateLogger) Update probability: 5; checking with client value 100
+[06.12.2025, 03:57:17,754] [info] (DeviceInfo) {
+  "memory": {
+    "freeMB": 6107,
+    "totalMB": 15672
+  },
+  "storage": {
+    "freeMB": 855727,
+    "totalMB": 899204
+  },
+  "appMetrics": {
+    "cpu": {
+      "cumulativeCPUUsage": 528.85,
+      "percentCPUUsage": 0.11624886973807262,
+      "idleWakeupsPerSecond": 88
+    },
+    "memory": {
+      "workingSetSizeMB": 0,
+      "peakWorkingSetSizeMB": 0
+    }
+  }
+}
+[06.12.2025, 04:00:27,111] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[06.12.2025, 04:00:27,114] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[06.12.2025, 04:20:27,105] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[06.12.2025, 04:20:27,107] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[06.12.2025, 04:27:17,775] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[06.12.2025, 04:27:17,890] [info] (UpdateLogger) Logger inside "electron-updater" package Found version 5.79.2 (url: Yandex_Music_amd64_5.79.2.deb)
+[06.12.2025, 04:27:17,891] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.74.2',
+  UPDATE_URL: 'https://desktop.app.music.yandex.net/stable/'
+}
+[06.12.2025, 04:27:17,891] [info] (UpdateLogger) Update probability: 5; checking with client value 100
+[06.12.2025, 04:27:17,892] [info] (DeviceInfo) {
+  "memory": {
+    "freeMB": 6999,
+    "totalMB": 15672
+  },
+  "storage": {
+    "freeMB": 855723,
+    "totalMB": 899204
+  },
+  "appMetrics": {
+    "cpu": {
+      "cumulativeCPUUsage": 553.15,
+      "percentCPUUsage": 0.11249136728748395,
+      "idleWakeupsPerSecond": 87
+    },
+    "memory": {
+      "workingSetSizeMB": 0,
+      "peakWorkingSetSizeMB": 0
+    }
+  }
+}
+[06.12.2025, 10:35:44,071] [info] (DeviceInfo) {
+  "memory": {
+    "freeMB": 11638,
+    "totalMB": 15672
+  },
+  "storage": {
+    "freeMB": 855675,
+    "totalMB": 899204
+  }
+}
+[06.12.2025, 10:35:44,074] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[06.12.2025, 10:35:44,094] [info] (Events) Event sent REFRESH_APPLICATION_DATA
+[06.12.2025, 10:35:44,098] [info] (Events) Event sent REFRESH_APPLICATION_DATA
+[06.12.2025, 10:35:44,261] [info] (Events) Event handle GET_PASSPORT_LOGIN
+[06.12.2025, 10:35:44,263] [info] (Events) Event handle GET_YANDEX_UID
+[06.12.2025, 10:35:44,287] [info] (UpdateLogger) Logger inside "electron-updater" package Found version 5.79.2 (url: Yandex_Music_amd64_5.79.2.deb)
+[06.12.2025, 10:35:44,288] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.74.2',
+  UPDATE_URL: 'https://desktop.app.music.yandex.net/stable/'
+}
+[06.12.2025, 10:35:44,293] [info] (UpdateLogger) Update probability: 5; checking with client value 100
+[06.12.2025, 10:35:44,295] [info] (DeviceInfo) {
+  "memory": {
+    "freeMB": 11414,
+    "totalMB": 15672
+  },
+  "storage": {
+    "freeMB": 855675,
+    "totalMB": 899204
+  },
+  "appMetrics": {
+    "cpu": {
+      "cumulativeCPUUsage": 1.28,
+      "percentCPUUsage": 0,
+      "idleWakeupsPerSecond": 0
+    },
+    "memory": {
+      "workingSetSizeMB": 0,
+      "peakWorkingSetSizeMB": 0
+    }
+  }
+}
+[06.12.2025, 10:35:44,390] [info] (Events) Event received APPLICATION_READY
+[06.12.2025, 10:35:44,397] [info] (Events) Event sent PROBABILITY_BUCKET 50-100
+[06.12.2025, 10:35:44,437] [info] (Events) Event received APPLICATION_THEME
+[06.12.2025, 10:35:44,586] [info] (Common) Request to https://desktop.app.music.yandex.net/stable/release-notes/en.json completed with status:  200
+[06.12.2025, 10:35:44,600] [info] (Events) Event sent LOAD_RELEASE_NOTES
+[06.12.2025, 10:35:45,791] [info] (Events) Event received PLAYER_STATE false undefined undefined
+[06.12.2025, 10:35:46,509] [info] (Events) Event received PLAYER_STATE undefined false undefined
+[06.12.2025, 10:35:46,511] [info] (Events) Event received PLAYER_STATE undefined undefined true
+[06.12.2025, 10:35:46,815] [info] (Events) Event received PLAYER_STATE undefined true undefined
+[06.12.2025, 10:35:46,869] [info] (Events) Event received PLAYER_STATE undefined false undefined
+[06.12.2025, 10:40:43,100] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[06.12.2025, 10:40:43,103] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[06.12.2025, 10:56:43,107] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[06.12.2025, 10:56:43,109] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[06.12.2025, 11:05:44,173] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[06.12.2025, 11:05:44,273] [info] (UpdateLogger) Logger inside "electron-updater" package Found version 5.79.2 (url: Yandex_Music_amd64_5.79.2.deb)
+[06.12.2025, 11:05:44,273] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.74.2',
+  UPDATE_URL: 'https://desktop.app.music.yandex.net/stable/'
+}
+[06.12.2025, 11:05:44,274] [info] (UpdateLogger) Update probability: 5; checking with client value 100
+[06.12.2025, 11:05:44,275] [info] (DeviceInfo) {
+  "memory": {
+    "freeMB": 11307,
+    "totalMB": 15672
+  },
+  "storage": {
+    "freeMB": 855674,
+    "totalMB": 899204
+  },
+  "appMetrics": {
+    "cpu": {
+      "cumulativeCPUUsage": 25.33,
+      "percentCPUUsage": 0.11134381910661773,
+      "idleWakeupsPerSecond": 85
+    },
+    "memory": {
+      "workingSetSizeMB": 0,
+      "peakWorkingSetSizeMB": 0
+    }
+  }
+}
+[06.12.2025, 11:11:52,522] [info] (Events) Event sent REFRESH_APPLICATION_DATA
+[06.12.2025, 11:16:43,015] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[06.12.2025, 11:16:43,017] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[06.12.2025, 11:32:43,098] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[06.12.2025, 11:32:43,101] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[06.12.2025, 11:35:44,273] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[06.12.2025, 11:35:44,395] [info] (UpdateLogger) Logger inside "electron-updater" package Found version 5.79.2 (url: Yandex_Music_amd64_5.79.2.deb)
+[06.12.2025, 11:35:44,395] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.74.2',
+  UPDATE_URL: 'https://desktop.app.music.yandex.net/stable/'
+}
+[06.12.2025, 11:35:44,396] [info] (UpdateLogger) Update probability: 5; checking with client value 100
+[06.12.2025, 11:35:44,397] [info] (DeviceInfo) {
+  "memory": {
+    "freeMB": 8924,
+    "totalMB": 15672
+  },
+  "storage": {
+    "freeMB": 855654,
+    "totalMB": 899204
+  },
+  "appMetrics": {
+    "cpu": {
+      "cumulativeCPUUsage": 49.54,
+      "percentCPUUsage": 0.11207574997676838,
+      "idleWakeupsPerSecond": 85
+    },
+    "memory": {
+      "workingSetSizeMB": 0,
+      "peakWorkingSetSizeMB": 0
+    }
+  }
+}
+[06.12.2025, 11:48:43,106] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[06.12.2025, 11:48:43,108] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[06.12.2025, 12:05:44,373] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[06.12.2025, 12:05:44,459] [info] (UpdateLogger) Logger inside "electron-updater" package Found version 5.79.2 (url: Yandex_Music_amd64_5.79.2.deb)
+[06.12.2025, 12:05:44,459] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.74.2',
+  UPDATE_URL: 'https://desktop.app.music.yandex.net/stable/'
+}
+[06.12.2025, 12:05:44,460] [info] (UpdateLogger) Update probability: 5; checking with client value 100
+[06.12.2025, 12:05:44,461] [info] (DeviceInfo) {
+  "memory": {
+    "freeMB": 9013,
+    "totalMB": 15672
+  },
+  "storage": {
+    "freeMB": 855646,
+    "totalMB": 899204
+  },
+  "appMetrics": {
+    "cpu": {
+      "cumulativeCPUUsage": 72.99,
+      "percentCPUUsage": 0.10856093171091076,
+      "idleWakeupsPerSecond": 87
+    },
+    "memory": {
+      "workingSetSizeMB": 0,
+      "peakWorkingSetSizeMB": 0
+    }
+  }
+}
+[06.12.2025, 12:08:43,106] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[06.12.2025, 12:08:43,108] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[06.12.2025, 12:24:43,106] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[06.12.2025, 12:24:43,107] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[06.12.2025, 12:35:44,473] [info] (UpdateLogger) Logger inside "electron-updater" package Checking for update
+[06.12.2025, 12:35:44,557] [info] (UpdateLogger) Logger inside "electron-updater" package Found version 5.79.2 (url: Yandex_Music_amd64_5.79.2.deb)
+[06.12.2025, 12:35:44,557] [info] (UpdateLogger) Common config {
+  DEPRECATED_VERSIONS: '<=5.74.2',
+  UPDATE_URL: 'https://desktop.app.music.yandex.net/stable/'
+}
+[06.12.2025, 12:35:44,558] [info] (UpdateLogger) Update probability: 5; checking with client value 100
+[06.12.2025, 12:35:44,559] [info] (DeviceInfo) {
+  "memory": {
+    "freeMB": 8991,
+    "totalMB": 15672
+  },
+  "storage": {
+    "freeMB": 855645,
+    "totalMB": 899204
+  },
+  "appMetrics": {
+    "cpu": {
+      "cumulativeCPUUsage": 96.65,
+      "percentCPUUsage": 0.10953109655716464,
+      "idleWakeupsPerSecond": 88
+    },
+    "memory": {
+      "workingSetSizeMB": 0,
+      "peakWorkingSetSizeMB": 0
+    }
+  }
+}
+[06.12.2025, 12:40:43,107] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[06.12.2025, 12:40:43,110] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED
+[06.12.2025, 12:56:43,106] [info] (Events) Event sent REFRESH_TRACKS_AVAILABILITY
+[06.12.2025, 12:56:43,108] [info] (Events) Event received TRACKS_AVAILABILITY_UPDATED

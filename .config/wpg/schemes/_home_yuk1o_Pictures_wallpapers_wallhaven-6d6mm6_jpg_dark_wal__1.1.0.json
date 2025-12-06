@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yuk1o/Pictures/wallpapers/wallhaven-6d6mm6.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0D0917",
+        "foreground": "#c7a6ce",
+        "cursor": "#c7a6ce"
+    },
+    "colors": {
+        "color0": "#0D0917",
+        "color1": "#37246C",
+        "color2": "#4E335A",
+        "color3": "#684D5F",
+        "color4": "#855F78",
+        "color5": "#593098",
+        "color6": "#694B96",
+        "color7": "#c7a6ce",
+        "color8": "#8b7490",
+        "color9": "#37246C",
+        "color10": "#4E335A",
+        "color11": "#684D5F",
+        "color12": "#855F78",
+        "color13": "#593098",
+        "color14": "#694B96",
+        "color15": "#c7a6ce"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yuk1o/Pictures/wallpapers/makima.png",
+    "alpha": "100",
+    "special": {
+        "background": "#040A41",
+        "foreground": "#e0dfe2",
+        "cursor": "#e0dfe2"
+    },
+    "colors": {
+        "color0": "#040A41",
+        "color1": "#FD4451",
+        "color2": "#FBAE12",
+        "color3": "#6E708C",
+        "color4": "#977E94",
+        "color5": "#9A9BAC",
+        "color6": "#C0B6C1",
+        "color7": "#e0dfe2",
+        "color8": "#9c9c9e",
+        "color9": "#FD4451",
+        "color10": "#FBAE12",
+        "color11": "#6E708C",
+        "color12": "#977E94",
+        "color13": "#9A9BAC",
+        "color14": "#C0B6C1",
+        "color15": "#e0dfe2"
+    }
+}

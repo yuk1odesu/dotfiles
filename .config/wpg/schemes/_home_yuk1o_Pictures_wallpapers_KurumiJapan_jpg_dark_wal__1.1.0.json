@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yuk1o/Pictures/wallpapers/KurumiJapan.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#120e10",
+        "foreground": "#e2dddc",
+        "cursor": "#e2dddc"
+    },
+    "colors": {
+        "color0": "#120e10",
+        "color1": "#A65959",
+        "color2": "#CA6464",
+        "color3": "#CE817B",
+        "color4": "#B4A0A1",
+        "color5": "#D2A5A6",
+        "color6": "#DCC1BE",
+        "color7": "#e2dddc",
+        "color8": "#9e9a9a",
+        "color9": "#A65959",
+        "color10": "#CA6464",
+        "color11": "#CE817B",
+        "color12": "#B4A0A1",
+        "color13": "#D2A5A6",
+        "color14": "#DCC1BE",
+        "color15": "#e2dddc"
+    }
+}
