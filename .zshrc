@@ -124,3 +124,15 @@ source $ZSH/oh-my-zsh.sh
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
+
+alias up="yay -Syyu"
+alias c="clear"
+alias ff="fastfetch"
+alias v="vim"
+alias sv="sudo vim"
+alias yz="yazi"
+alias t="touch"
+alias ys="yay -S"
+
+export EDITOR=vim
+export QT_QPA_PLATFORMTHEME=qt5ct
