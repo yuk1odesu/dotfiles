@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yuk1o/wallpapers/Kurumi.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0c0b0c",
+        "foreground": "#eae4e5",
+        "cursor": "#eae4e5"
+    },
+    "colors": {
+        "color0": "#0c0b0c",
+        "color1": "#C63044",
+        "color2": "#E3384D",
+        "color3": "#DF5362",
+        "color4": "#C67985",
+        "color5": "#B1A0A2",
+        "color6": "#DAD7D7",
+        "color7": "#eae4e5",
+        "color8": "#a39fa0",
+        "color9": "#C63044",
+        "color10": "#E3384D",
+        "color11": "#DF5362",
+        "color12": "#C67985",
+        "color13": "#B1A0A2",
+        "color14": "#DAD7D7",
+        "color15": "#eae4e5"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "checksum": "45e74740e38e0e3b8f7b651cf30f0198",
+    "wallpaper": "/home/yuk1o/wallpapers/mikuevil.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0b0d19",
+        "foreground": "#c2c2c5",
+        "cursor": "#c2c2c5"
+    },
+    "colors": {
+        "color0": "#0b0d19",
+        "color1": "#035269",
+        "color2": "#4A515F",
+        "color3": "#AC0647",
+        "color4": "#DF0459",
+        "color5": "#F60171",
+        "color6": "#F7078B",
+        "color7": "#c2c2c5",
+        "color8": "#5a5c6e",
+        "color9": "#035269",
+        "color10": "#4A515F",
+        "color11": "#AC0647",
+        "color12": "#DF0459",
+        "color13": "#F60171",
+        "color14": "#F7078B",
+        "color15": "#c2c2c5"
+    }
+}

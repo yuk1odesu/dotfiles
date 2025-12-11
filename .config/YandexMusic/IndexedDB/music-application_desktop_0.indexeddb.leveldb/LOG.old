@@ -1,3 +1,6 @@
-2025/12/05-17:57:16.342 2cd30 Reusing MANIFEST /home/yuk1o/.config/YandexMusic/IndexedDB/music-application_desktop_0.indexeddb.leveldb/MANIFEST-000001
-2025/12/05-17:57:16.342 2cd30 Recovering log #3
-2025/12/05-17:57:16.344 2cd30 Reusing old log /home/yuk1o/.config/YandexMusic/IndexedDB/music-application_desktop_0.indexeddb.leveldb/000003.log 
+2025/12/10-17:00:41.745 dd6 Reusing MANIFEST /home/yuk1o/.config/YandexMusic/IndexedDB/music-application_desktop_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/10-17:00:41.748 dd6 Recovering log #4
+2025/12/10-17:00:41.855 dd6 Reusing old log /home/yuk1o/.config/YandexMusic/IndexedDB/music-application_desktop_0.indexeddb.leveldb/000004.log 
+2025/12/10-17:48:12.874 dd6 Level-0 table #8: started
+2025/12/10-17:48:12.964 dd6 Level-0 table #8: 1179931 bytes OK
+2025/12/10-17:48:12.979 dd6 Delete type=0 #4

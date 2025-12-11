@@ -1,3 +1,3 @@
-2025/12/06-10:35:43.160 3da6d Reusing MANIFEST /home/yuk1o/.config/YandexMusic/Local Storage/leveldb/MANIFEST-000001
-2025/12/06-10:35:43.161 3da6d Recovering log #3
-2025/12/06-10:35:43.162 3da6d Reusing old log /home/yuk1o/.config/YandexMusic/Local Storage/leveldb/000003.log 
+2025/12/10-18:08:43.346 b74 Reusing MANIFEST /home/yuk1o/.config/YandexMusic/Local Storage/leveldb/MANIFEST-000001
+2025/12/10-18:08:43.354 b74 Recovering log #12
+2025/12/10-18:08:43.361 b74 Reusing old log /home/yuk1o/.config/YandexMusic/Local Storage/leveldb/000012.log 

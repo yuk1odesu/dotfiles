@@ -6,9 +6,7 @@ tty-clock
 walogram-git
 waypaper
 wlogout
-wlogout-debug
 wpgtk
 yandex-music
 yay
-yay-debug
 zen-browser-bin

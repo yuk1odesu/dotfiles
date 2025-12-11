@@ -1,0 +1,28 @@
+{
+    "checksum": "bea6d14c58c4b0b510c3dee5673f3d27",
+    "wallpaper": "/home/yuk1o/wallpapers/mikucouch.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0f1125",
+        "foreground": "#c3c3c8",
+        "cursor": "#c3c3c8"
+    },
+    "colors": {
+        "color0": "#0f1125",
+        "color1": "#3A4673",
+        "color2": "#454B74",
+        "color3": "#946C7F",
+        "color4": "#293AA5",
+        "color5": "#3A709B",
+        "color6": "#4A6A93",
+        "color7": "#c3c3c8",
+        "color8": "#5f6074",
+        "color9": "#3A4673",
+        "color10": "#454B74",
+        "color11": "#946C7F",
+        "color12": "#293AA5",
+        "color13": "#3A709B",
+        "color14": "#4A6A93",
+        "color15": "#c3c3c8"
+    }
+}

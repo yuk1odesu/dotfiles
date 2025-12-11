@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yuk1o/wallpapers/furinaeye.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0f19",
+        "foreground": "#a3c7eb",
+        "cursor": "#a3c7eb"
+    },
+    "colors": {
+        "color0": "#0a0f19",
+        "color1": "#2D56CC",
+        "color2": "#336AD6",
+        "color3": "#3877E3",
+        "color4": "#4975C1",
+        "color5": "#4087E7",
+        "color6": "#4697F3",
+        "color7": "#a3c7eb",
+        "color8": "#728ba4",
+        "color9": "#2D56CC",
+        "color10": "#336AD6",
+        "color11": "#3877E3",
+        "color12": "#4975C1",
+        "color13": "#4087E7",
+        "color14": "#4697F3",
+        "color15": "#a3c7eb"
+    }
+}

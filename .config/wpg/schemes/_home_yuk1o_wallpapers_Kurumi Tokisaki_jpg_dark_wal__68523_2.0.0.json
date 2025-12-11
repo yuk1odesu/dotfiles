@@ -1,0 +1,28 @@
+{
+    "checksum": "7b568cad16ce05a72e01b1fdcd7cfffe",
+    "wallpaper": "/home/yuk1o/wallpapers/Kurumi Tokisaki.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#121217",
+        "foreground": "#c3c3c5",
+        "cursor": "#c3c3c5"
+    },
+    "colors": {
+        "color0": "#121217",
+        "color1": "#E5204F",
+        "color2": "#6B6B92",
+        "color3": "#B16C9A",
+        "color4": "#80919D",
+        "color5": "#A299A0",
+        "color6": "#CDA4AC",
+        "color7": "#c3c3c5",
+        "color8": "#5b5b70",
+        "color9": "#E5204F",
+        "color10": "#6B6B92",
+        "color11": "#B16C9A",
+        "color12": "#80919D",
+        "color13": "#A299A0",
+        "color14": "#CDA4AC",
+        "color15": "#c3c3c5"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "checksum": "5816dd2b9649b25a7531b0dc34741c58",
+    "wallpaper": "/home/yuk1o/wallpapers/furinochka.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1a0b15",
+        "foreground": "#c5c2c4",
+        "cursor": "#c5c2c4"
+    },
+    "colors": {
+        "color0": "#1a0b15",
+        "color1": "#94687A",
+        "color2": "#635997",
+        "color3": "#5152D0",
+        "color4": "#8F73AA",
+        "color5": "#AE91AD",
+        "color6": "#A99CE4",
+        "color7": "#c5c2c4",
+        "color8": "#6f5a67",
+        "color9": "#94687A",
+        "color10": "#635997",
+        "color11": "#5152D0",
+        "color12": "#8F73AA",
+        "color13": "#AE91AD",
+        "color14": "#A99CE4",
+        "color15": "#c5c2c4"
+    }
+}

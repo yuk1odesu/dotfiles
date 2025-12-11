@@ -1,0 +1,72 @@
+{
+  "bar.customModules.storage.paths": [
+    "/"
+  ],
+  "scalingPriority": "hyprland",
+  "menus.power.showLabel": false,
+  "bar.customModules.storage.label": false,
+  "bar.customModules.netstat.label": true,
+  "menus.clock.time.military": true,
+  "menus.clock.weather.enabled": false,
+  "menus.volume.raiseMaximumVolume": true,
+  "bar.layouts": {
+    "0": {
+      "left": [
+        "dashboard",
+        "workspaces"
+      ],
+      "middle": [
+        "clock"
+      ],
+      "right": [
+        "volume",
+        "network",
+        "bluetooth",
+        "battery",
+        "notifications"
+      ]
+    },
+    "1": {
+      "left": [
+        "dashboard",
+        "workspaces",
+        "windowtitle"
+      ],
+      "middle": [
+        "media"
+      ],
+      "right": [
+        "volume",
+        "clock",
+        "notifications"
+      ]
+    },
+    "2": {
+      "left": [
+        "dashboard",
+        "workspaces",
+        "windowtitle"
+      ],
+      "middle": [
+        "media"
+      ],
+      "right": [
+        "volume",
+        "clock",
+        "notifications"
+      ]
+    }
+  },
+  "bar.workspaces.show_numbered": false,
+  "wallpaper.pywal": true,
+  "tear": true,
+  "theme.bar.menus.menu.dashboard.scaling": 75,
+  "theme.bar.menus.menu.battery.scaling": 100,
+  "theme.bar.scaling": 85,
+  "theme.notification.scaling": 75,
+  "theme.bar.menus.menu.notifications.scaling": 85,
+  "menus.media.hideAlbum": false,
+  "wallpaper.enable": false,
+  "wallpaper.image": "/home/yuk1o/.cache/current_wallpaper.png",
+  "theme.bar.menus.monochrome": false
+}

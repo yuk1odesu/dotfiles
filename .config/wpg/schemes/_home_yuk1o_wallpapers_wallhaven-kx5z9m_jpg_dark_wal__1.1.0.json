@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yuk1o/wallpapers/wallhaven-kx5z9m.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#010100",
+        "foreground": "#e7aac7",
+        "cursor": "#e7aac7"
+    },
+    "colors": {
+        "color0": "#010100",
+        "color1": "#8F837E",
+        "color2": "#DE3988",
+        "color3": "#F13989",
+        "color4": "#B5628D",
+        "color5": "#F74D99",
+        "color6": "#FA55A4",
+        "color7": "#e7aac7",
+        "color8": "#a1768b",
+        "color9": "#8F837E",
+        "color10": "#DE3988",
+        "color11": "#F13989",
+        "color12": "#B5628D",
+        "color13": "#F74D99",
+        "color14": "#FA55A4",
+        "color15": "#e7aac7"
+    }
+}

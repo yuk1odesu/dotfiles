@@ -1,0 +1,28 @@
+{
+    "checksum": "8612e374703decb4d8c37e006d391d23",
+    "wallpaper": "/home/yuk1o/wallpapers/arimakana.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#15090c",
+        "foreground": "#c4c1c2",
+        "cursor": "#c4c1c2"
+    },
+    "colors": {
+        "color0": "#15090c",
+        "color1": "#B36977",
+        "color2": "#9E4C85",
+        "color3": "#964092",
+        "color4": "#BC7685",
+        "color5": "#A1649E",
+        "color6": "#D4738B",
+        "color7": "#c4c1c2",
+        "color8": "#6c585e",
+        "color9": "#B36977",
+        "color10": "#9E4C85",
+        "color11": "#964092",
+        "color12": "#BC7685",
+        "color13": "#A1649E",
+        "color14": "#D4738B",
+        "color15": "#c4c1c2"
+    }
+}

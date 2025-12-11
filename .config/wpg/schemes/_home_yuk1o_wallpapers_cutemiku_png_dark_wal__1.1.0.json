@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yuk1o/wallpapers/cutemiku.png",
+    "alpha": "100",
+    "special": {
+        "background": "#231720",
+        "foreground": "#efe9e0",
+        "cursor": "#efe9e0"
+    },
+    "colors": {
+        "color0": "#231720",
+        "color1": "#65B4C7",
+        "color2": "#96AEAA",
+        "color3": "#C1B9AA",
+        "color4": "#F0CEB3",
+        "color5": "#A5D3CF",
+        "color6": "#B2E3DD",
+        "color7": "#efe9e0",
+        "color8": "#a7a39c",
+        "color9": "#65B4C7",
+        "color10": "#96AEAA",
+        "color11": "#C1B9AA",
+        "color12": "#F0CEB3",
+        "color13": "#A5D3CF",
+        "color14": "#B2E3DD",
+        "color15": "#efe9e0"
+    }
+}

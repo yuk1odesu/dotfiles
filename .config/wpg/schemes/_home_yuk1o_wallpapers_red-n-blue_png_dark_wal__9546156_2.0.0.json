@@ -1,0 +1,28 @@
+{
+    "checksum": "cfd742e1c2cc69a70e5df6431318df15",
+    "wallpaper": "/home/yuk1o/wallpapers/red-n-blue.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0a0b17",
+        "foreground": "#c1c2c5",
+        "cursor": "#c1c2c5"
+    },
+    "colors": {
+        "color0": "#0a0b17",
+        "color1": "#E72C3A",
+        "color2": "#B43551",
+        "color3": "#012F8D",
+        "color4": "#024A9D",
+        "color5": "#034FA7",
+        "color6": "#265EA7",
+        "color7": "#c1c2c5",
+        "color8": "#595b6d",
+        "color9": "#E72C3A",
+        "color10": "#B43551",
+        "color11": "#012F8D",
+        "color12": "#024A9D",
+        "color13": "#034FA7",
+        "color14": "#265EA7",
+        "color15": "#c1c2c5"
+    }
+}

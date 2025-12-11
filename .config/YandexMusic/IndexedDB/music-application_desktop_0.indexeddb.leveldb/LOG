@@ -1,3 +1,9 @@
-2025/12/06-10:35:44.279 3daa8 Reusing MANIFEST /home/yuk1o/.config/YandexMusic/IndexedDB/music-application_desktop_0.indexeddb.leveldb/MANIFEST-000001
-2025/12/06-10:35:44.279 3daa8 Recovering log #3
-2025/12/06-10:35:44.284 3daa8 Reusing old log /home/yuk1o/.config/YandexMusic/IndexedDB/music-application_desktop_0.indexeddb.leveldb/000003.log 
+2025/12/10-18:08:45.213 b72 Reusing MANIFEST /home/yuk1o/.config/YandexMusic/IndexedDB/music-application_desktop_0.indexeddb.leveldb/MANIFEST-000001
+2025/12/10-18:08:45.215 b72 Recovering log #7
+2025/12/10-18:08:45.216 b72 Reusing old log /home/yuk1o/.config/YandexMusic/IndexedDB/music-application_desktop_0.indexeddb.leveldb/000007.log 
+2025/12/10-18:08:46.187 b74 Compacting 1@1 + 1@2 files
+2025/12/10-18:08:46.210 b74 Generated table #10@1: 2019 keys, 59872 bytes
+2025/12/10-18:08:46.210 b74 Compacted 1@1 + 1@2 files => 59872 bytes
+2025/12/10-18:08:46.211 b74 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/12/10-18:08:46.212 b74 Delete type=2 #5
+2025/12/10-18:08:46.212 b74 Delete type=2 #8

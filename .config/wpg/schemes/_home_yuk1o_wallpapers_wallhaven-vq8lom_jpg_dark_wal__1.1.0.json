@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yuk1o/wallpapers/wallhaven-vq8lom.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0E1D32",
+        "foreground": "#78e4f0",
+        "cursor": "#78e4f0"
+    },
+    "colors": {
+        "color0": "#0E1D32",
+        "color1": "#92376F",
+        "color2": "#0E6296",
+        "color3": "#4D5994",
+        "color4": "#A85B9B",
+        "color5": "#0890AC",
+        "color6": "#26AAD3",
+        "color7": "#78e4f0",
+        "color8": "#549fa8",
+        "color9": "#92376F",
+        "color10": "#0E6296",
+        "color11": "#4D5994",
+        "color12": "#A85B9B",
+        "color13": "#0890AC",
+        "color14": "#26AAD3",
+        "color15": "#78e4f0"
+    }
+}

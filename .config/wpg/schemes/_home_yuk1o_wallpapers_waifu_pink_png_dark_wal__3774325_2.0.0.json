@@ -1,0 +1,28 @@
+{
+    "checksum": "4a8107b606e0258b8ea02e5220a381ea",
+    "wallpaper": "/home/yuk1o/wallpapers/waifu_pink.png",
+    "alpha": "100",
+    "special": {
+        "background": "#19131a",
+        "foreground": "#c5c4c5",
+        "cursor": "#c5c4c5"
+    },
+    "colors": {
+        "color0": "#19131a",
+        "color1": "#C95E77",
+        "color2": "#BD8A74",
+        "color3": "#AB6A88",
+        "color4": "#D06C95",
+        "color5": "#DF95A5",
+        "color6": "#EBAECC",
+        "color7": "#c5c4c5",
+        "color8": "#6d5d71",
+        "color9": "#C95E77",
+        "color10": "#BD8A74",
+        "color11": "#AB6A88",
+        "color12": "#D06C95",
+        "color13": "#DF95A5",
+        "color14": "#EBAECC",
+        "color15": "#c5c4c5"
+    }
+}

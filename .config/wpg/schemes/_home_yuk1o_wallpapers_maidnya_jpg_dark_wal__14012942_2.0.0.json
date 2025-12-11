@@ -1,0 +1,28 @@
+{
+    "checksum": "b4b7420a939fb3b5dc551bfab2e1c2a3",
+    "wallpaper": "/home/yuk1o/wallpapers/maidnya.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#151515",
+        "foreground": "#c4c4c4",
+        "cursor": "#c4c4c4"
+    },
+    "colors": {
+        "color0": "#151515",
+        "color1": "#9A827D",
+        "color2": "#6C7788",
+        "color3": "#B37392",
+        "color4": "#768E9A",
+        "color5": "#9591A0",
+        "color6": "#CEAEC3",
+        "color7": "#c4c4c4",
+        "color8": "#705b5b",
+        "color9": "#9A827D",
+        "color10": "#6C7788",
+        "color11": "#B37392",
+        "color12": "#768E9A",
+        "color13": "#9591A0",
+        "color14": "#CEAEC3",
+        "color15": "#c4c4c4"
+    }
+}

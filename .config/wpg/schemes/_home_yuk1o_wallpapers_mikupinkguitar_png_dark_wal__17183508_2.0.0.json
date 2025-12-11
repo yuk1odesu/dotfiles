@@ -1,0 +1,28 @@
+{
+    "checksum": "570b88aa27c46500b068ba765db6c34f",
+    "wallpaper": "/home/yuk1o/wallpapers/mikupinkguitar.png",
+    "alpha": "100",
+    "special": {
+        "background": "#1c1025",
+        "foreground": "#c6c3c8",
+        "cursor": "#c6c3c8"
+    },
+    "colors": {
+        "color0": "#1c1025",
+        "color1": "#CE5DAB",
+        "color2": "#E665A7",
+        "color3": "#799ACD",
+        "color4": "#CC90AD",
+        "color5": "#958BF4",
+        "color6": "#F39BD8",
+        "color7": "#c6c3c8",
+        "color8": "#6b5f74",
+        "color9": "#CE5DAB",
+        "color10": "#E665A7",
+        "color11": "#799ACD",
+        "color12": "#CC90AD",
+        "color13": "#958BF4",
+        "color14": "#F39BD8",
+        "color15": "#c6c3c8"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "checksum": "035dafe3a27b24f15a3c22f6a60d891e",
+    "wallpaper": "/home/yuk1o/wallpapers/aesthetic_deer.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0d1020",
+        "foreground": "#c2c3c7",
+        "cursor": "#c2c3c7"
+    },
+    "colors": {
+        "color0": "#0d1020",
+        "color1": "#2B4562",
+        "color2": "#6A4571",
+        "color3": "#933A51",
+        "color4": "#AF3956",
+        "color5": "#D93A62",
+        "color6": "#834678",
+        "color7": "#c2c3c7",
+        "color8": "#5d6071",
+        "color9": "#2B4562",
+        "color10": "#6A4571",
+        "color11": "#933A51",
+        "color12": "#AF3956",
+        "color13": "#D93A62",
+        "color14": "#834678",
+        "color15": "#c2c3c7"
+    }
+}

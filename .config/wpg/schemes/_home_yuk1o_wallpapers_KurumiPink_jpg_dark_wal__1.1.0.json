@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yuk1o/wallpapers/KurumiPink.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#181012",
+        "foreground": "#d9cdcf",
+        "cursor": "#d9cdcf"
+    },
+    "colors": {
+        "color0": "#181012",
+        "color1": "#CA8771",
+        "color2": "#A07B84",
+        "color3": "#AF8E94",
+        "color4": "#AA9198",
+        "color5": "#BCA5AA",
+        "color6": "#C499A0",
+        "color7": "#d9cdcf",
+        "color8": "#978f90",
+        "color9": "#CA8771",
+        "color10": "#A07B84",
+        "color11": "#AF8E94",
+        "color12": "#AA9198",
+        "color13": "#BCA5AA",
+        "color14": "#C499A0",
+        "color15": "#d9cdcf"
+    }
+}

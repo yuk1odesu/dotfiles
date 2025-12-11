@@ -1,0 +1,28 @@
+{
+    "checksum": "dbd8bbae7b8f132a19e74d4881939b6a",
+    "wallpaper": "/home/yuk1o/wallpapers/hyprchan8k.png",
+    "alpha": "100",
+    "special": {
+        "background": "#101010",
+        "foreground": "#c3c3c3",
+        "cursor": "#c3c3c3"
+    },
+    "colors": {
+        "color0": "#101010",
+        "color1": "#53B4A6",
+        "color2": "#5CB6CA",
+        "color3": "#72C8D2",
+        "color4": "#72DAEC",
+        "color5": "#DDA3A3",
+        "color6": "#90DCDD",
+        "color7": "#c3c3c3",
+        "color8": "#6c5959",
+        "color9": "#53B4A6",
+        "color10": "#5CB6CA",
+        "color11": "#72C8D2",
+        "color12": "#72DAEC",
+        "color13": "#DDA3A3",
+        "color14": "#90DCDD",
+        "color15": "#c3c3c3"
+    }
+}

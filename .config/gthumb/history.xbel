@@ -3,11 +3,21 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="file:///home/yuk1o/Pictures/wallpapers" added="2025-12-06T07:34:45.646142Z" modified="2025-12-06T07:34:45.646147Z" visited="2025-12-06T07:34:45.646143Z">
+  <bookmark href="file:///home/yuk1o/wallpapers" added="2025-12-09T15:21:37.667112Z" modified="2025-12-09T15:21:37.667123Z" visited="2025-12-09T15:21:37.667113Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <bookmark:applications>
-          <bookmark:application name="gThumb" exec="&apos;org.gnome.gThumb %u&apos;" modified="2025-12-06T07:34:45.646145Z" count="1"/>
+          <bookmark:application name="gThumb" exec="&apos;org.gnome.gThumb %u&apos;" modified="2025-12-09T15:21:37.667119Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/yuk1o/Pictures/wallpapers" added="2025-12-09T15:21:37.667126Z" modified="2025-12-09T15:21:37.667133Z" visited="2025-12-09T15:21:37.667126Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;org.gnome.gThumb %u&apos;" modified="2025-12-09T15:21:37.667130Z" count="1"/>
         </bookmark:applications>
         <bookmark:private/>
       </metadata>

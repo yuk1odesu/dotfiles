@@ -1,0 +1,28 @@
+{
+    "checksum": "1e8578138b32e947e63d283589db6295",
+    "wallpaper": "/home/yuk1o/wallpapers/furinamint.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#34241e",
+        "foreground": "#ccc8c6",
+        "cursor": "#ccc8c6"
+    },
+    "colors": {
+        "color0": "#34241e",
+        "color1": "#58BBCB",
+        "color2": "#66D6DC",
+        "color3": "#93A9A7",
+        "color4": "#C4BFB0",
+        "color5": "#91CDCF",
+        "color6": "#ADD1D1",
+        "color7": "#ccc8c6",
+        "color8": "#7f6e67",
+        "color9": "#58BBCB",
+        "color10": "#66D6DC",
+        "color11": "#93A9A7",
+        "color12": "#C4BFB0",
+        "color13": "#91CDCF",
+        "color14": "#ADD1D1",
+        "color15": "#ccc8c6"
+    }
+}

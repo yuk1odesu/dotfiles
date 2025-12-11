@@ -1,0 +1,28 @@
+{
+    "checksum": "b82bbddbf5e820c596ead3a555c1afd3",
+    "wallpaper": "/home/yuk1o/wallpapers/wallhaven-wej9er.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#080814",
+        "foreground": "#c1c1c4",
+        "cursor": "#c1c1c4"
+    },
+    "colors": {
+        "color0": "#080814",
+        "color1": "#070D8E",
+        "color2": "#0D1AA4",
+        "color3": "#5B05A3",
+        "color4": "#0350AC",
+        "color5": "#130DDF",
+        "color6": "#5F03E5",
+        "color7": "#c1c1c4",
+        "color8": "#58586b",
+        "color9": "#070D8E",
+        "color10": "#0D1AA4",
+        "color11": "#5B05A3",
+        "color12": "#0350AC",
+        "color13": "#130DDF",
+        "color14": "#5F03E5",
+        "color15": "#c1c1c4"
+    }
+}

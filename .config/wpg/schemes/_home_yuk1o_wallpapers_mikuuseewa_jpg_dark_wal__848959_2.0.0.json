@@ -1,0 +1,28 @@
+{
+    "checksum": "84602809b70bfd4a8f2375658e2934b7",
+    "wallpaper": "/home/yuk1o/wallpapers/mikuuseewa.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#272233",
+        "foreground": "#c9c7cc",
+        "cursor": "#c9c7cc"
+    },
+    "colors": {
+        "color0": "#272233",
+        "color1": "#48A5B8",
+        "color2": "#1EB0CE",
+        "color3": "#2CE0DE",
+        "color4": "#58E2E1",
+        "color5": "#BDB3B8",
+        "color6": "#97DEE0",
+        "color7": "#c9c7cc",
+        "color8": "#6f6880",
+        "color9": "#48A5B8",
+        "color10": "#1EB0CE",
+        "color11": "#2CE0DE",
+        "color12": "#58E2E1",
+        "color13": "#BDB3B8",
+        "color14": "#97DEE0",
+        "color15": "#c9c7cc"
+    }
+}

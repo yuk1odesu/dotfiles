@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yuk1o/wallpapers/wallhaven-7jgz29.png",
+    "alpha": "100",
+    "special": {
+        "background": "#01073E",
+        "foreground": "#e1dfe6",
+        "cursor": "#e1dfe6"
+    },
+    "colors": {
+        "color0": "#01073E",
+        "color1": "#CF60A8",
+        "color2": "#4393D0",
+        "color3": "#599AE4",
+        "color4": "#47ABF6",
+        "color5": "#D499B0",
+        "color6": "#B7B8EF",
+        "color7": "#e1dfe6",
+        "color8": "#9d9ca1",
+        "color9": "#CF60A8",
+        "color10": "#4393D0",
+        "color11": "#599AE4",
+        "color12": "#47ABF6",
+        "color13": "#D499B0",
+        "color14": "#B7B8EF",
+        "color15": "#e1dfe6"
+    }
+}

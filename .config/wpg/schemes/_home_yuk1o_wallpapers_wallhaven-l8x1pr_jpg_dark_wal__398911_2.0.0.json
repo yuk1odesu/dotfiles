@@ -1,0 +1,28 @@
+{
+    "checksum": "2a6b870b5f290297f1eb431d93314865",
+    "wallpaper": "/home/yuk1o/wallpapers/wallhaven-l8x1pr.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#140e20",
+        "foreground": "#c4c2c7",
+        "cursor": "#c4c2c7"
+    },
+    "colors": {
+        "color0": "#140e20",
+        "color1": "#6248BA",
+        "color2": "#7167AE",
+        "color3": "#9D27A0",
+        "color4": "#AF2FC1",
+        "color5": "#EB1BDF",
+        "color6": "#EA50EF",
+        "color7": "#c4c2c7",
+        "color8": "#645d72",
+        "color9": "#6248BA",
+        "color10": "#7167AE",
+        "color11": "#9D27A0",
+        "color12": "#AF2FC1",
+        "color13": "#EB1BDF",
+        "color14": "#EA50EF",
+        "color15": "#c4c2c7"
+    }
+}

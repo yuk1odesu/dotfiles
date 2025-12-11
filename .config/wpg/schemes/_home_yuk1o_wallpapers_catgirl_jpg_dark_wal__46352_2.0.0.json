@@ -1,0 +1,28 @@
+{
+    "checksum": "122ace586342cf32635c35d12fe06a17",
+    "wallpaper": "/home/yuk1o/wallpapers/catgirl.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#15090f",
+        "foreground": "#c4c1c3",
+        "cursor": "#c4c1c3"
+    },
+    "colors": {
+        "color0": "#15090f",
+        "color1": "#249764",
+        "color2": "#6A3694",
+        "color3": "#A82295",
+        "color4": "#E316A1",
+        "color5": "#C33EBC",
+        "color6": "#EB1AD0",
+        "color7": "#c4c1c3",
+        "color8": "#6c5863",
+        "color9": "#249764",
+        "color10": "#6A3694",
+        "color11": "#A82295",
+        "color12": "#E316A1",
+        "color13": "#C33EBC",
+        "color14": "#EB1AD0",
+        "color15": "#c4c1c3"
+    }
+}

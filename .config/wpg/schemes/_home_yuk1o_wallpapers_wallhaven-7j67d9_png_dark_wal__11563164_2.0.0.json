@@ -1,0 +1,28 @@
+{
+    "checksum": "e7c656a7b867a58d4c9022ed6c905abb",
+    "wallpaper": "/home/yuk1o/wallpapers/wallhaven-7j67d9.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0b0b1b",
+        "foreground": "#c2c2c6",
+        "cursor": "#c2c2c6"
+    },
+    "colors": {
+        "color0": "#0b0b1b",
+        "color1": "#BC7C5D",
+        "color2": "#6E8279",
+        "color3": "#B0866B",
+        "color4": "#CE956F",
+        "color5": "#DBA579",
+        "color6": "#788687",
+        "color7": "#c2c2c6",
+        "color8": "#5a5a6f",
+        "color9": "#BC7C5D",
+        "color10": "#6E8279",
+        "color11": "#B0866B",
+        "color12": "#CE956F",
+        "color13": "#DBA579",
+        "color14": "#788687",
+        "color15": "#c2c2c6"
+    }
+}

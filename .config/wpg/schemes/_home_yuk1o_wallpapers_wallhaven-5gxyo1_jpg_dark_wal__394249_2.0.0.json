@@ -1,0 +1,28 @@
+{
+    "checksum": "94618b8ac51e268b67110adc94ed5f0a",
+    "wallpaper": "/home/yuk1o/wallpapers/wallhaven-5gxyo1.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0e0916",
+        "foreground": "#c2c1c4",
+        "cursor": "#c2c1c4"
+    },
+    "colors": {
+        "color0": "#0e0916",
+        "color1": "#4E0A4B",
+        "color2": "#6A0B4B",
+        "color3": "#6A1E65",
+        "color4": "#525067",
+        "color5": "#970E2A",
+        "color6": "#A3124E",
+        "color7": "#c2c1c4",
+        "color8": "#60596c",
+        "color9": "#4E0A4B",
+        "color10": "#6A0B4B",
+        "color11": "#6A1E65",
+        "color12": "#525067",
+        "color13": "#970E2A",
+        "color14": "#A3124E",
+        "color15": "#c2c1c4"
+    }
+}

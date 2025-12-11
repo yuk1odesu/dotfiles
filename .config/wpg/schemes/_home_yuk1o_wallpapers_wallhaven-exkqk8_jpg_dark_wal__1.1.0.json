@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/yuk1o/wallpapers/wallhaven-exkqk8.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0E0E13",
+        "foreground": "#cfcedc",
+        "cursor": "#cfcedc"
+    },
+    "colors": {
+        "color0": "#0E0E13",
+        "color1": "#4A4A54",
+        "color2": "#585A6B",
+        "color3": "#382FA9",
+        "color4": "#5E6594",
+        "color5": "#887788",
+        "color6": "#9997A8",
+        "color7": "#cfcedc",
+        "color8": "#90909a",
+        "color9": "#4A4A54",
+        "color10": "#585A6B",
+        "color11": "#382FA9",
+        "color12": "#5E6594",
+        "color13": "#887788",
+        "color14": "#9997A8",
+        "color15": "#cfcedc"
+    }
+}

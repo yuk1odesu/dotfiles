@@ -1,0 +1,28 @@
+{
+    "checksum": "e7b575fc3a7fc39abc6b785e6d3e4de6",
+    "wallpaper": "/home/yuk1o/wallpapers/mikuguitarretro.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#131314",
+        "foreground": "#c4c4c4",
+        "cursor": "#c4c4c4"
+    },
+    "colors": {
+        "color0": "#131314",
+        "color1": "#958779",
+        "color2": "#768D87",
+        "color3": "#A2A59D",
+        "color4": "#C8B8AB",
+        "color5": "#EDD2B8",
+        "color6": "#DCD7CE",
+        "color7": "#c4c4c4",
+        "color8": "#5b5b6f",
+        "color9": "#958779",
+        "color10": "#768D87",
+        "color11": "#A2A59D",
+        "color12": "#C8B8AB",
+        "color13": "#EDD2B8",
+        "color14": "#DCD7CE",
+        "color15": "#c4c4c4"
+    }
+}

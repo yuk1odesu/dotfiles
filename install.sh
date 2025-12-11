@@ -13,11 +13,32 @@ if ! command -v yay &> /dev/null; then
   rm -rf /tmp/yay
 fi
 
-# Install packages from pkglist with pacman
-sudo pacman -S --needed --noconfirm $(comm -13 <(pacman -Qqq | sort) <(sort pkglist.txt))
+# Запрос про NVIDIA GPU
+echo "Проверяем наличие NVIDIA GPU..."
+read -p "Do u have nvidia gpu? (y/N): " -n 1 -r
+echo
+
+if [[ $REPLY =~ ^[Yy]$ ]]; then
+    echo "Обнаружена NVIDIA GPU. Устанавливаем драйверы..."
+
+    # Проверяем наличие скрипта nvidia_drivers_install.sh
+    if [ -f "./nvidia_drivers_install.sh" ]; then
+        sudo chmod +x ./nvidia_drivers_install.sh
+        ./nvidia_drivers_install.sh
+        NVIDIA_STATUS="установлены"
+    else
+        echo "Файл nvidia_drivers_install.sh не найден!"
+        NVIDIA_STATUS="file not found"
+    fi
+else
+    echo "NVIDIA GPU не обнаружена. Пропускаем установку драйверов."
+    NVIDIA_STATUS="не установлены"
+fi
+
+echo "NVIDIA драйверы: $NVIDIA_STATUS"
 
 # Install packages from aurpkglist with yay
-yay -S --needed --noconfirm - < aurpkglist.txt
+yay -S --needed --noconfirm - < allpkglist.txt
 
 # Install Oh My Zsh non-interactively
 sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)" "" --unattended
@@ -38,6 +59,32 @@ git clone https://github.com/junegunn/fzf.git ~/.fzf && ~/.fzf/install
 
 # Install zsh theme
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
+
+# Enable sddm and install theme 
+sudo systemctl enable sddm.service
+sudo sh -c 'printf "[Theme]\nCurrent=obscure\n" > /etc/sddm.conf'
+
+# Install grub theme
+sudo cp -r teleport-abyss /boot/grub/themes
+sudo tee -a /etc/default/grub << EOF
+GRUB_TIMEOUT=5
+GRUB_TIMEOUT_STYLE=menu
+GRUB_TERMINAL_OUTPUT=gfxterm
+GRUB_GFXMODE="1920x1080,auto"
+GRUB_GFXPAYLOAD_LINUX=keep
+GRUB_THEME="/boot/grub/themes/teleport-abyss/theme.txt"
+EOF
+
+# reload grub config
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+
+# Install useful github repos
+mkdir repos
+cd repos
+git clone https://github.com/poach3r/pywal-obsidianmd
+cd pywal-obsidianmd
+sudo chmod +x pywal-obsidianmd.sh
+cd
 
 # Copy .zshrc to /home
 sudo cp .zshrc /home/$(whoami)/

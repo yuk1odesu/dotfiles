@@ -1,0 +1,28 @@
+{
+    "checksum": "086cb0b41212ccb0e8b65a0b0d2b90d5",
+    "wallpaper": "/home/yuk1o/wallpapers/Lilith.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#100c1e",
+        "foreground": "#c3c2c6",
+        "cursor": "#c3c2c6"
+    },
+    "colors": {
+        "color0": "#100c1e",
+        "color1": "#72839B",
+        "color2": "#7C93B0",
+        "color3": "#7B98C2",
+        "color4": "#8297B3",
+        "color5": "#98A0AE",
+        "color6": "#A3B3CB",
+        "color7": "#c3c2c6",
+        "color8": "#5f5c70",
+        "color9": "#72839B",
+        "color10": "#7C93B0",
+        "color11": "#7B98C2",
+        "color12": "#8297B3",
+        "color13": "#98A0AE",
+        "color14": "#A3B3CB",
+        "color15": "#c3c2c6"
+    }
+}
