@@ -1,0 +1,28 @@
+{
+    "checksum": "0ab226113e9b050a23a9237b55ed4fb0",
+    "wallpaper": "/home/yuk1o/wallpapers/alba4k.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0a1017",
+        "foreground": "#c1c3c5",
+        "cursor": "#c1c3c5"
+    },
+    "colors": {
+        "color0": "#0a1017",
+        "color1": "#04709B",
+        "color2": "#707585",
+        "color3": "#16A3D4",
+        "color4": "#00D9D7",
+        "color5": "#9197AD",
+        "color6": "#AEB6CF",
+        "color7": "#c1c3c5",
+        "color8": "#59626d",
+        "color9": "#04709B",
+        "color10": "#707585",
+        "color11": "#16A3D4",
+        "color12": "#00D9D7",
+        "color13": "#9197AD",
+        "color14": "#AEB6CF",
+        "color15": "#c1c3c5"
+    }
+}

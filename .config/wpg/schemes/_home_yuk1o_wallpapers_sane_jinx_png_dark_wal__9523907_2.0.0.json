@@ -1,0 +1,28 @@
+{
+    "checksum": "eb95be77f010d651ad2e025c7e2373f1",
+    "wallpaper": "/home/yuk1o/wallpapers/sane_jinx.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0f0813",
+        "foreground": "#c3c1c4",
+        "cursor": "#c3c1c4"
+    },
+    "colors": {
+        "color0": "#0f0813",
+        "color1": "#62265A",
+        "color2": "#943366",
+        "color3": "#A54579",
+        "color4": "#463794",
+        "color5": "#B25791",
+        "color6": "#C25AA6",
+        "color7": "#c3c1c4",
+        "color8": "#65576b",
+        "color9": "#62265A",
+        "color10": "#943366",
+        "color11": "#A54579",
+        "color12": "#463794",
+        "color13": "#B25791",
+        "color14": "#C25AA6",
+        "color15": "#c3c1c4"
+    }
+}

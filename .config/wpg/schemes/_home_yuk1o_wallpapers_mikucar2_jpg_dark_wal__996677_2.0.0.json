@@ -1,0 +1,28 @@
+{
+    "checksum": "02a27eb4b6f522b3f470d5a42acca250",
+    "wallpaper": "/home/yuk1o/wallpapers/mikucar2.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#091117",
+        "foreground": "#c1c3c5",
+        "cursor": "#c1c3c5"
+    },
+    "colors": {
+        "color0": "#091117",
+        "color1": "#573A46",
+        "color2": "#38454B",
+        "color3": "#4D4C52",
+        "color4": "#6A5A60",
+        "color5": "#B85D62",
+        "color6": "#94676C",
+        "color7": "#c1c3c5",
+        "color8": "#59646d",
+        "color9": "#573A46",
+        "color10": "#38454B",
+        "color11": "#4D4C52",
+        "color12": "#6A5A60",
+        "color13": "#B85D62",
+        "color14": "#94676C",
+        "color15": "#c1c3c5"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "checksum": "a0a76f2d1d8eade3927bf11726078c88",
+    "wallpaper": "/home/yuk1o/wallpapers/favourites/waves.png",
+    "alpha": "100",
+    "special": {
+        "background": "#101026",
+        "foreground": "#c3c3c8",
+        "cursor": "#c3c3c8"
+    },
+    "colors": {
+        "color0": "#101026",
+        "color1": "#965172",
+        "color2": "#B0496A",
+        "color3": "#BF9276",
+        "color4": "#567087",
+        "color5": "#BE528A",
+        "color6": "#6B8E96",
+        "color7": "#c3c3c8",
+        "color8": "#5f5f74",
+        "color9": "#965172",
+        "color10": "#B0496A",
+        "color11": "#BF9276",
+        "color12": "#567087",
+        "color13": "#BE528A",
+        "color14": "#6B8E96",
+        "color15": "#c3c3c8"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "checksum": "9954253c67c9025e6fea7616709c80e2",
+    "wallpaper": "/home/yuk1o/wallpapers/roseanime.png",
+    "alpha": "100",
+    "special": {
+        "background": "#19131b",
+        "foreground": "#c5c4c6",
+        "cursor": "#c5c4c6"
+    },
+    "colors": {
+        "color0": "#19131b",
+        "color1": "#C85D78",
+        "color2": "#BE8B74",
+        "color3": "#AC6A87",
+        "color4": "#CE6A97",
+        "color5": "#E194A5",
+        "color6": "#EEAECE",
+        "color7": "#c5c4c6",
+        "color8": "#6d5d71",
+        "color9": "#C85D78",
+        "color10": "#BE8B74",
+        "color11": "#AC6A87",
+        "color12": "#CE6A97",
+        "color13": "#E194A5",
+        "color14": "#EEAECE",
+        "color15": "#c5c4c6"
+    }
+}

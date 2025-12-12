@@ -1,1 +1,18 @@
-{"player": "mpv","quality": "best","colors": "true","printOfflineSubscriptions": "true","subscriptions": []}
+{
+  "player": "mpv",
+  "quality": "best",
+  "colors": "true",
+  "printOfflineSubscriptions": "true",
+  "subscriptions": [
+    {
+      "streamer": "shroud"
+    },
+    {
+      "streamer": "starladder_cs_en"
+    },
+    {
+      "streamer": "starladder_cs_en2"
+    }
+  ],
+  "lastSubscriptionUpdate": "1765550158"
+}

@@ -1,0 +1,28 @@
+{
+    "checksum": "57b64e20c30eebcf70e15f40401f20a1",
+    "wallpaper": "/home/yuk1o/wallpapers/jdm.jpeg",
+    "alpha": "100",
+    "special": {
+        "background": "#1b0b1b",
+        "foreground": "#c6c2c6",
+        "cursor": "#c6c2c6"
+    },
+    "colors": {
+        "color0": "#1b0b1b",
+        "color1": "#655A67",
+        "color2": "#69546B",
+        "color3": "#82737D",
+        "color4": "#7A5E85",
+        "color5": "#8F6F95",
+        "color6": "#AB5BC8",
+        "color7": "#c6c2c6",
+        "color8": "#6f5a6f",
+        "color9": "#655A67",
+        "color10": "#69546B",
+        "color11": "#82737D",
+        "color12": "#7A5E85",
+        "color13": "#8F6F95",
+        "color14": "#AB5BC8",
+        "color15": "#c6c2c6"
+    }
+}

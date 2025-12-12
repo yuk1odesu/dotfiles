@@ -1,0 +1,28 @@
+{
+    "checksum": "db711ce5bbc80fdb1efb3ef94092dae9",
+    "wallpaper": "/home/yuk1o/wallpapers/violet.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#1d0e0c",
+        "foreground": "#c6c2c2",
+        "cursor": "#c6c2c2"
+    },
+    "colors": {
+        "color0": "#1d0e0c",
+        "color1": "#84BFC3",
+        "color2": "#A8BCC7",
+        "color3": "#86C2C8",
+        "color4": "#A3D5DB",
+        "color5": "#F8DBC6",
+        "color6": "#E5D4D4",
+        "color7": "#c6c2c2",
+        "color8": "#705e5c",
+        "color9": "#84BFC3",
+        "color10": "#A8BCC7",
+        "color11": "#86C2C8",
+        "color12": "#A3D5DB",
+        "color13": "#F8DBC6",
+        "color14": "#E5D4D4",
+        "color15": "#c6c2c2"
+    }
+}

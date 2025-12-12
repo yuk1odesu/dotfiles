@@ -1,0 +1,28 @@
+{
+    "checksum": "1eff31d47c9acdcfcc9d6bde13edf73c",
+    "wallpaper": "/home/yuk1o/wallpapers/favourites/anarchy.png",
+    "alpha": "100",
+    "special": {
+        "background": "#0d111e",
+        "foreground": "#c2c3c6",
+        "cursor": "#c2c3c6"
+    },
+    "colors": {
+        "color0": "#0d111e",
+        "color1": "#923745",
+        "color2": "#A63D4E",
+        "color3": "#B44455",
+        "color4": "#C54A5D",
+        "color5": "#D55065",
+        "color6": "#F05B72",
+        "color7": "#c2c3c6",
+        "color8": "#5c6170",
+        "color9": "#923745",
+        "color10": "#A63D4E",
+        "color11": "#B44455",
+        "color12": "#C54A5D",
+        "color13": "#D55065",
+        "color14": "#F05B72",
+        "color15": "#c2c3c6"
+    }
+}

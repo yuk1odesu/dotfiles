@@ -1,0 +1,28 @@
+{
+    "checksum": "af1e32f061dfb18cc28e4ebccdd0a894",
+    "wallpaper": "/home/yuk1o/wallpapers/kurumibest.png",
+    "alpha": "100",
+    "special": {
+        "background": "#090f15",
+        "foreground": "#c1c3c4",
+        "cursor": "#c1c3c4"
+    },
+    "colors": {
+        "color0": "#090f15",
+        "color1": "#165463",
+        "color2": "#5B4143",
+        "color3": "#AD514E",
+        "color4": "#6A8F71",
+        "color5": "#295E8C",
+        "color6": "#43AEAA",
+        "color7": "#c1c3c4",
+        "color8": "#58636c",
+        "color9": "#165463",
+        "color10": "#5B4143",
+        "color11": "#AD514E",
+        "color12": "#6A8F71",
+        "color13": "#295E8C",
+        "color14": "#43AEAA",
+        "color15": "#c1c3c4"
+    }
+}

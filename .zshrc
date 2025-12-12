@@ -127,12 +127,23 @@ source $ZSH/oh-my-zsh.sh
 
 alias up="yay -Syyu"
 alias c="clear"
-alias ff="fastfetch"
+alias f="clear && fastfetch"
+alias nf="clear && neofetch"
+alias mx="clear && cmatrix"
+alias pool="clear && asciiquarium"
 alias v="vim"
 alias sv="sudo vim"
 alias yz="yazi"
 alias t="touch"
+alias st="sudo touch"
 alias ys="yay -S"
+alias yr="yay -Rns"
+alias pacup="sudo pacman -Rns $(pacman -Qdtq)"
+alias n="nvim"
+alias sn="sudo nvim"
+alias tw="wtwitch"
+alias bye="sudo shutdown -h now"
+alias settings="cd ~/.config/hypr && yazi"
 
-export EDITOR=vim
-export QT_QPA_PLATFORMTHEME=qt5ct
+export EDITOR=nvim
+export PDF_VIEWER=zathura

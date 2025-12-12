@@ -1,0 +1,28 @@
+{
+    "checksum": "160f0ef2c5a3042260b125d27fea18a7",
+    "wallpaper": "/home/yuk1o/wallpapers/mfghost.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0b1919",
+        "foreground": "#c2c5c5",
+        "cursor": "#c2c5c5"
+    },
+    "colors": {
+        "color0": "#0b1919",
+        "color1": "#576265",
+        "color2": "#C7583E",
+        "color3": "#BD9B61",
+        "color4": "#527589",
+        "color5": "#6E8B9C",
+        "color6": "#999CA4",
+        "color7": "#c2c5c5",
+        "color8": "#5a6e6e",
+        "color9": "#576265",
+        "color10": "#C7583E",
+        "color11": "#BD9B61",
+        "color12": "#527589",
+        "color13": "#6E8B9C",
+        "color14": "#999CA4",
+        "color15": "#c2c5c5"
+    }
+}

@@ -44,12 +44,22 @@ extract = [
 	{ run = 'ya pub extract --list %*',   desc = "Extract here", for = "windows" },
 ]
 play = [
-	{ run = 'vlc "$@"', orphan = true, for = "unix" },
-	{ run = 'mpv --force-window %*', orphan = true, for = "windows" },
-	{ run = '''mediainfo "$1"; echo "Press enter to exit"; read _''', block = true, desc = "Show media info", for = "unix" },
+	{ run = 'mpv "$@"', orphan = true, for = "unix" },
 ]
 image_viewer = [
-        { run = 'gthumb "$@"', block = false },
+        { run = 'sxiv "$0"', block = false },
+]
+
+image_upscaler = [
+        { run = 'upscaler "$@"', block = false },
+]
+
+audio_play = [
+	{ run = 'vlc "$0"', orphan = true },
+]
+
+pdf = [
+	{ run = '$PDF_VIEWER "$@"', block = false },
 ]
 
 [open]
@@ -58,10 +68,14 @@ rules = [
 	{ name = "*/", use = [ "edit", "open", "reveal" ] },
 	# Text
 	{ mime = "text/*", use = [ "edit", "reveal" ] },
-	# Image
-	{ mime = "image/*", use = [ "image_viewer", "system_default" ] },
+	# PDF
+	{ mime = "application/pdf", use = [ "pdf", "reveal" ] },
+        # Image
+	{ mime = "image/*", use = [ "image_viewer", "image_upscaler" ] },
 	# Media
-	{ mime = "{audio,video}/*", use = [ "play", "reveal" ] },
+	{ mime = "video/*", use = [ "play", "reveal" ] },
+	# Media
+	{ mime = "audio/*", use = [ "audio_play", "reveal" ] },
 	# Archive
 	{ mime = "application/{zip,rar,7z*,tar,gzip,xz,zstd,bzip*,lzma,compress,archive,cpio,arj,xar,ms-cab*}", use = [ "extract", "reveal" ] },
 	# JSON

@@ -1,0 +1,28 @@
+{
+    "checksum": "c49f4d6c699c41db6b879929d8484906",
+    "wallpaper": "/home/yuk1o/wallpapers/athmoshpere.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#161d33",
+        "foreground": "#c4c6cc",
+        "cursor": "#c4c6cc"
+    },
+    "colors": {
+        "color0": "#161d33",
+        "color1": "#5463AD",
+        "color2": "#526BBB",
+        "color3": "#8869A8",
+        "color4": "#7788BE",
+        "color5": "#8994B9",
+        "color6": "#97A4D4",
+        "color7": "#c4c6cc",
+        "color8": "#656b7b",
+        "color9": "#5463AD",
+        "color10": "#526BBB",
+        "color11": "#8869A8",
+        "color12": "#7788BE",
+        "color13": "#8994B9",
+        "color14": "#97A4D4",
+        "color15": "#c4c6cc"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "checksum": "843615f2169605d92ccffec93fa43132",
+    "wallpaper": "/home/yuk1o/wallpapers/truenochill.png",
+    "alpha": "100",
+    "special": {
+        "background": "#100814",
+        "foreground": "#c3c1c4",
+        "cursor": "#c3c1c4"
+    },
+    "colors": {
+        "color0": "#100814",
+        "color1": "#7D93DD",
+        "color2": "#7F95E0",
+        "color3": "#CA90B3",
+        "color4": "#9096DB",
+        "color5": "#AE9AD5",
+        "color6": "#9AA1EC",
+        "color7": "#c3c1c4",
+        "color8": "#64586b",
+        "color9": "#7D93DD",
+        "color10": "#7F95E0",
+        "color11": "#CA90B3",
+        "color12": "#9096DB",
+        "color13": "#AE9AD5",
+        "color14": "#9AA1EC",
+        "color15": "#c3c1c4"
+    }
+}

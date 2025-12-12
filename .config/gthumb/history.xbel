@@ -3,21 +3,41 @@
       xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
       xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
 >
-  <bookmark href="file:///home/yuk1o/wallpapers" added="2025-12-09T15:21:37.667112Z" modified="2025-12-09T15:21:37.667123Z" visited="2025-12-09T15:21:37.667113Z">
+  <bookmark href="file:///home/yuk1o/repos/arch-install-kit/assets/screenshots" added="2025-12-12T13:58:40.543355Z" modified="2025-12-12T13:58:40.543366Z" visited="2025-12-12T13:58:40.543356Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <bookmark:applications>
-          <bookmark:application name="gThumb" exec="&apos;org.gnome.gThumb %u&apos;" modified="2025-12-09T15:21:37.667119Z" count="1"/>
+          <bookmark:application name="gThumb" exec="&apos;org.gnome.gThumb %u&apos;" modified="2025-12-12T13:58:40.543361Z" count="1"/>
         </bookmark:applications>
         <bookmark:private/>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/yuk1o/Pictures/wallpapers" added="2025-12-09T15:21:37.667126Z" modified="2025-12-09T15:21:37.667133Z" visited="2025-12-09T15:21:37.667126Z">
+  <bookmark href="file:///home/yuk1o/Documents/Prev/chat_213/photos" added="2025-12-12T13:58:40.543370Z" modified="2025-12-12T13:58:40.543376Z" visited="2025-12-12T13:58:40.543370Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <bookmark:applications>
-          <bookmark:application name="gThumb" exec="&apos;org.gnome.gThumb %u&apos;" modified="2025-12-09T15:21:37.667130Z" count="1"/>
+          <bookmark:application name="gThumb" exec="&apos;org.gnome.gThumb %u&apos;" modified="2025-12-12T13:58:40.543372Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/yuk1o/wallpapers" added="2025-12-12T13:58:40.543378Z" modified="2025-12-12T13:58:40.543383Z" visited="2025-12-12T13:58:40.543379Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;org.gnome.gThumb %u&apos;" modified="2025-12-12T13:58:40.543381Z" count="1"/>
+        </bookmark:applications>
+        <bookmark:private/>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/yuk1o/Pictures/wallpapers" added="2025-12-12T13:58:40.543385Z" modified="2025-12-12T13:58:40.543390Z" visited="2025-12-12T13:58:40.543385Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <bookmark:applications>
+          <bookmark:application name="gThumb" exec="&apos;org.gnome.gThumb %u&apos;" modified="2025-12-12T13:58:40.543388Z" count="1"/>
         </bookmark:applications>
         <bookmark:private/>
       </metadata>

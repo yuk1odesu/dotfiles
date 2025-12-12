@@ -1,0 +1,28 @@
+{
+    "checksum": "81602cac2988436bfc4b835cd0ab1267",
+    "wallpaper": "/home/yuk1o/wallpapers/kurumiluv.png",
+    "alpha": "100",
+    "special": {
+        "background": "#170f24",
+        "foreground": "#c5c3c8",
+        "cursor": "#c5c3c8"
+    },
+    "colors": {
+        "color0": "#170f24",
+        "color1": "#634B6C",
+        "color2": "#A84A5C",
+        "color3": "#9D5C73",
+        "color4": "#5E608A",
+        "color5": "#AC7085",
+        "color6": "#C67687",
+        "color7": "#c5c3c8",
+        "color8": "#675e74",
+        "color9": "#634B6C",
+        "color10": "#A84A5C",
+        "color11": "#9D5C73",
+        "color12": "#5E608A",
+        "color13": "#AC7085",
+        "color14": "#C67687",
+        "color15": "#c5c3c8"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "checksum": "c5d9720779e2385623b9f964130ca46c",
+    "wallpaper": "/home/yuk1o/wallpapers/hutao.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#111b27",
+        "foreground": "#c3c6c9",
+        "cursor": "#c3c6c9"
+    },
+    "colors": {
+        "color0": "#111b27",
+        "color1": "#4F5E80",
+        "color2": "#5A6E87",
+        "color3": "#677992",
+        "color4": "#5C8199",
+        "color5": "#70839A",
+        "color6": "#778AA2",
+        "color7": "#c3c6c9",
+        "color8": "#606975",
+        "color9": "#4F5E80",
+        "color10": "#5A6E87",
+        "color11": "#677992",
+        "color12": "#5C8199",
+        "color13": "#70839A",
+        "color14": "#778AA2",
+        "color15": "#c3c6c9"
+    }
+}

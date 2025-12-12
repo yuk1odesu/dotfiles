@@ -1,4 +1,6 @@
-
 [Default Applications]
 image/jpeg=gthumb.desktop
 image/png=gthumb.desktop
+
+[Added Associations]
+image/jpeg=io.gitlab.theevilskeleton.Upscaler.desktop;org.gnome.gThumb.desktop;vimiv.desktop;

@@ -1,0 +1,28 @@
+{
+    "checksum": "5118a4ab7a1955531112d7df7e7520ab",
+    "wallpaper": "/home/yuk1o/wallpapers/drift.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#170a0a",
+        "foreground": "#c5c1c1",
+        "cursor": "#c5c1c1"
+    },
+    "colors": {
+        "color0": "#170a0a",
+        "color1": "#8F8F8F",
+        "color2": "#B0B0B0",
+        "color3": "#C9C9C9",
+        "color4": "#D8D8D8",
+        "color5": "#E8E8E8",
+        "color6": "#F3F3F3",
+        "color7": "#c5c1c1",
+        "color8": "#6d5959",
+        "color9": "#8F8F8F",
+        "color10": "#B0B0B0",
+        "color11": "#C9C9C9",
+        "color12": "#D8D8D8",
+        "color13": "#E8E8E8",
+        "color14": "#F3F3F3",
+        "color15": "#c5c1c1"
+    }
+}

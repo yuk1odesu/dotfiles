@@ -1,2 +1,8 @@
+@import "~/.cache/wal/colors-rofi-dark"
 
-@theme "/home/yuk1o/.local/share/rofi/themes/launchpad.rasi"
+element-text {
+ background-color: inherit;
+ text-color: inherit;
+}
+
+@theme "/home/yuk1o/.local/share/rofi/themes/rounded-template.rasi"

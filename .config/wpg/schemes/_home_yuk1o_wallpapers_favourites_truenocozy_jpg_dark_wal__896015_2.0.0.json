@@ -1,0 +1,28 @@
+{
+    "checksum": "5ef1cada0be8c99298b69098bce17aab",
+    "wallpaper": "/home/yuk1o/wallpapers/favourites/truenocozy.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#3e1e3d",
+        "foreground": "#cec6ce",
+        "cursor": "#cec6ce"
+    },
+    "colors": {
+        "color0": "#3e1e3d",
+        "color1": "#D26ED7",
+        "color2": "#CEA6BF",
+        "color3": "#A898EB",
+        "color4": "#E298FB",
+        "color5": "#DFA6E3",
+        "color6": "#E5CFE8",
+        "color7": "#cec6ce",
+        "color8": "#826a81",
+        "color9": "#D26ED7",
+        "color10": "#CEA6BF",
+        "color11": "#A898EB",
+        "color12": "#E298FB",
+        "color13": "#DFA6E3",
+        "color14": "#E5CFE8",
+        "color15": "#cec6ce"
+    }
+}
